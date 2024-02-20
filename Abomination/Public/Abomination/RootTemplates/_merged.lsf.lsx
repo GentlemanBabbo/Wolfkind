@@ -11,7 +11,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a13feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
-					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -31,7 +31,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5908a90f-15e1-48ae-8638-2bd89a4915a7" /> which models to load
-					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -49,12 +49,12 @@
 					<attribute id="Name" type="LSString" value="Abomination_Female_Chimera_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal CustomRace body
+					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="82c44e52-0d0d-433b-b276-cf95582a64d4" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
 					<children>
 						<node id="Tags">
@@ -76,12 +76,12 @@
 					<attribute id="Name" type="LSString" value="Abomination_Male_Chimera_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="097242a5-4a5e-4502-b27c-37d7453b5ff2" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
 
 					<children>

@@ -1,3 +1,21 @@
+<!--------------------- Abomination Character Entries --------------------->
+
+new entry "Playable_M_Abomination"
+type "Character"
+using "_Humanoid"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "GameSize" "Large"
+data "Weight" "135"
+data "StepsType" "Bare"
+
+new entry "Playable_F_Abomination"
+type "Character"
+using "_Humanoid"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "GameSize" "Large"
+data "Weight" "135"
+data "StepsType" "Bare"
+
 <!--------------------- Abomination Passives --------------------->
 
 new entry "Passive_TakeWing"
