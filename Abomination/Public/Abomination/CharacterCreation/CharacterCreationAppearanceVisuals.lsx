@@ -12,7 +12,6 @@
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
                     <attribute id="DisplayName" type="TranslatedString" handle="hc2e5c1dbg1784g4fc9gb982g2441b2c494a4" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
-					<attribute id="IconIdOverride" type="FixedString" value="0_Head_37c9f1e5-8d41-44e9-beae-d5e39a860866"/> <!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
 					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
