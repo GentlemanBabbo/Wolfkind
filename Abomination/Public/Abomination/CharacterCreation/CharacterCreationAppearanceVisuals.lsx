@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+		<!--Heads-->
+		<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
+				<node id="CharacterCreationAppearanceVisual"> Chimera1M - A
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc2e5c1dbg1784g4fc9gb982g2441b2c494a4" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_37c9f1e5-8d41-44e9-beae-d5e39a860866"/> <!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a3f619cd-c77b-4afd-ab86-1f15c2899df8"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="1dcf50ab-a802-49d1-8d4f-19df1070ad1d"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+			<!-- RaceUUID so you can quickly replace the above with your desired race
+				Halfling: 78cd3bcc-1c43-4a2a-aa80-c34322c16a04
+				Gnome: f1b3f884-4029-4f0f-b158-1f9fe0ae5a0d
+				Deep Gnome: 3560f4a2-c0b8-4f8b-baf8-6b6eaef0c160
+				Tiefling: b6dccbed-30f3-424b-a181-c4540cf38197
+				Githyanki: bdf9b779-002c-4077-b377-8ea7c1faa795
+				Human: 0eb594cb-8820-4be6-a58d-8be7a1a98fba
+				Elf: 6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a
+				Drow: 4f5d1434-5175-4fa9-b7dc-ab24fba37929
+				HalfElf/Drow: 45f4ac10-3c89-4fb2-b37d-f973bb9110c0
+				Dwarf: 0ab2874d-cfdc-405e-8a97-d37bfbb23c52
+				Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 
+				Half-Orc: 5c39a726-71c8-4748-ba8d-f768b3c11a91-->
+
+		<!--Hair -->
+		
+			<!--Male Hair-->
+				<node id="CharacterCreationAppearanceVisual">No Hair M
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h43a69035gcd84g43cdga734gfcffb57def08" version="1" />
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="6f08c0f8-e691-4415-823b-e1ce75ab562c" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
+
+		        <node id="CharacterCreationAppearanceVisual">Fiery Hair A M
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="he436aed6ge5c2g4b60g86a9gc8831f56ade9" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5"/>															
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="a351324d-f76b-4d6b-abd8-103f7a44acd4" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
+		<!--Fake Genitals-->
+
+                <node id="CharacterCreationAppearanceVisual"> MS
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="863401b8-a062-4c06-93f6-7b4e4b572cb1"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+
+                <node id="CharacterCreationAppearanceVisual"> FS
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="568a79b0-73c0-43f9-87f0-d66a8e228fce"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+<!--Wings-->				 
+				 <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- Female Strong -->
+                    <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="d56ae4a1-7cf4-4a7f-8740-405d95cb9d5b"/>
+                    <attribute id="VisualResource" type="guid" value="b9cd5eaf-f280-4c77-943d-2e306cc11536"/>
+                </node>
+                 <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- male Strong -->
+                    <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="2c76fd05-ae8f-4610-9f5e-1cc7b47ce834"/>
+                    <attribute id="VisualResource" type="guid" value="9ce33118-a646-4be4-8d3a-b7808dcae407"/>
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

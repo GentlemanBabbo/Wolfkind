@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="3"/>
+    <region id="CharacterCreationSharedVisuals">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSharedVisual">
+			        <attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" /> <!-- Match your contentuid line in your .loca-->
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="2ad62ff8-9217-4752-8ee4-aae33754668f"/>
+					<!-- Match the Visuals guid line in Races.lsx -->
+                    <attribute id="VisualResource" type="guid" value="30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5"/>
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
