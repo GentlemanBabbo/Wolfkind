@@ -110,6 +110,25 @@
                     <attribute id="UUID" type="guid" value="2c76fd05-ae8f-4610-9f5e-1cc7b47ce834"/>
                     <attribute id="VisualResource" type="guid" value="f436aa51-f914-4625-991b-1e35a6684302"/>
                 </node>
+<!--Tails-->
+		<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- Female Strong -->
+                    <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="4bfbcba4-5b44-42df-a958-41d607600b91"/>
+                    <attribute id="VisualResource" type="guid" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3"/>
+                </node>
+                 <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- male Strong -->
+                    <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="7922ce98-d9ae-4b79-a2da-d9e42ce04e98"/>
+                    <attribute id="VisualResource" type="guid" value="76b422c6-c3c2-4578-a710-2cdd2895d887"/>
+                </node>
       </children>
     </node>
   </region>
