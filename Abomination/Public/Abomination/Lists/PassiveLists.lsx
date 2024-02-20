@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Protection,FightingStyle_TwoWeaponFighting"/> the passive list
-                    <attribute id="UUID" type="guid" value="3933da0d-897a-4fd4-b37c-408c1afde2d3"/> the UUID, needs to be unique
+                    <attribute id="Passives" type="LSString" value="Passive_TakeFlight"/> the passive list
+                    <attribute id="UUID" type="guid" value="196a724a-addb-43ee-8c8e-ecff81d23400"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
