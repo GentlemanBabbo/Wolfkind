@@ -6,10 +6,10 @@
       <children>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Main_Race_1" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Abomination" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared);AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2);SelectPassives(3933da0d-897a-4fd4-b37c-408c1afde2d3,2,RacialFeats)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2);SelectPassives(3933da0d-897a-4fd4-b37c-408c1afde2d3,2,RacialFeats)" />see below for explanation
                   <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)-->
                   This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
                   <!--AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b)-->
@@ -20,27 +20,27 @@
                   This links to the PassiveLists.lsx, the 2 means the amount of options you need to pick.
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="d677ef04-19ea-4f8a-8229-0f655f233a20" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="0da0c784-f0ae-4680-a20f-4c0503275094" />  this one must be unique
+                  <attribute id="UUID" type="guid" value="6f85414a-c9a8-4ac6-9a77-e29b8106abd8" />  this one must be unique
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Main_Race_3" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Abomination" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="d677ef04-19ea-4f8a-8229-0f655f233a20" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="9116a2c8-9450-45d6-aeab-84d2d409cbe2" />  this one must be unique
+                  <attribute id="UUID" type="guid" value="62d72bc5-c7eb-4d0e-97d3-0b5eae4b0b8b" />  this one must be unique
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sub_Race_1" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Chimera" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a19ff33-6668-47b4-943b-6d713b16253f" /> Always use this one for races.lsx, says this progression node is for Sub Race
-                  <attribute id="UUID" type="guid" value="b31937b4-eee9-47a1-90c7-309246ea8062" />  this one must be unique
+                  <attribute id="UUID" type="guid" value="69856490-5050-4958-90df-197252a92f60" />  this one must be unique
           </node>
       </children>
     </node>
