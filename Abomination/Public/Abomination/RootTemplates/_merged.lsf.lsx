@@ -10,7 +10,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="013feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
 					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
 					<children>
 						<node id="Tags">
@@ -30,7 +30,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1bc12177-2e29-43ed-bcc0-1274eb630520" /> which models to load
 					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
 					<children>
 						<node id="Tags">
@@ -54,7 +54,7 @@
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="a2729bd9-2a8f-4fde-aaad-53b8629e5b10" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
 					<children>
 						<node id="Tags">
@@ -81,7 +81,7 @@
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="a2729bd9-2a8f-4fde-aaad-53b8629e5b10" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
 
 					<children>
