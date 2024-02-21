@@ -2443,7 +2443,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="MaterialID" type="FixedString" value="40921643-5b0c-46c4-80aa-123cce77d2b8" />
 							<attribute id="ObjectID" type="FixedString" value="Abomination_MS_Head_A.1_ABOMINATION_MS_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -2458,7 +2458,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="MaterialID" type="FixedString" value="40921643-5b0c-46c4-80aa-123cce77d2b8" />
 							<attribute id="ObjectID" type="FixedString" value="Abomination_MS_Head_A.4_ABOMINATION_MS_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
@@ -2478,7 +2478,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
+							<attribute id="MaterialID" type="FixedString" value="40921643-5b0c-46c4-80aa-123cce77d2b8" />
 							<attribute id="ObjectID" type="FixedString" value="Abomination_MS_Head_A.8_ABOMINATION_MS_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
 					</children>
