@@ -4,28 +4,28 @@
   <region id="CharacterCreationPresets">
     <node id="root">
       <children>
-				<node id="CharacterCreationPreset">
-          <attribute id="BodyShape" type="uint8" value="1"/>
+				<node id="CharacterCreationPreset"> F
+          <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="1"/>
           <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
           <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
           <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
           <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-          <attribute id="RootTemplate" type="guid" value="34107858-d9a5-4835-adde-7440a05df46b"/>
+          <attribute id="RootTemplate" type="guid" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605"/>
 					<attribute id="SubRaceUUID" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef"/>
-          <attribute id="UUID" type="guid" value="43682f50-bed7-4b15-b907-06bd219a0ec2"/>
+          <attribute id="UUID" type="guid" value="8db74418-d4d7-4bfa-9e0c-97828cc0409a"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
-				<node id="CharacterCreationPreset">
-          <attribute id="BodyShape" type="uint8" value="1"/>
+				<node id="CharacterCreationPreset"> M
+          <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="0"/>
           <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
           <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
           <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
           <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-          <attribute id="RootTemplate" type="guid" value="ee622cf0-c18d-4264-939c-9f0e6327be38"/>
+          <attribute id="RootTemplate" type="guid" value="b02f331d-b065-4ab1-9e79-052e0c71557f"/>
 					<attribute id="SubRaceUUID" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef"/>
-          <attribute id="UUID" type="guid" value="0be30012-5392-4c6a-81f8-b4371bad8a84"/>
+          <attribute id="UUID" type="guid" value="d9a39e7b-8dd4-47f8-b28a-19cec0e0d2d7"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
       </children>

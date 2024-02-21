@@ -6,7 +6,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="8b6061bf-f71c-9496-bd22-6b5eb1998ddc" /> base animations
-					<attribute id="BodySetVisual" type="FixedString" value="a2883048-858d-2937-720d-795a83666532" /> body model
+					<attribute id="BodySetVisual" type="FixedString" value="72a5d634-9b08-429f-b61e-c725f66cdbe3" /> body model
 					<attribute id="ID" type="FixedString" value="400c7e56-2b6d-41aa-8bde-e358cbb0ce3b" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Abomination" />	localised name
@@ -45,7 +45,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="ID" type="FixedString" value="1bc12177-2e29-43ed-bcc0-1274eb630520" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Abomination" />					
