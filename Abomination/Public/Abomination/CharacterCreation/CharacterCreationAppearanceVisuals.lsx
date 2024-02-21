@@ -46,10 +46,9 @@
 					<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
-                
 		<!--Fake Genitals-->
 
-                <node id="CharacterCreationAppearanceVisual"> M
+                <node id="CharacterCreationAppearanceVisual"> MS
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultForBodyType" type="uint8" value="0"/>
@@ -65,7 +64,7 @@
                     </children>
                 </node>
 
-                <node id="CharacterCreationAppearanceVisual"> F
+                <node id="CharacterCreationAppearanceVisual"> FS
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultForBodyType" type="uint8" value="1"/>
