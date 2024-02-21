@@ -6976,9 +6976,6 @@
 			</children>
 		</node>
 	</region>
-			</children>
-		</node>
-	</region>
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
