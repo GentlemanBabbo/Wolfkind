@@ -46,8 +46,8 @@
 					<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
-		<!--Fake Genitals-->
-
+		
+            <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
@@ -63,7 +63,6 @@
                         </node>
                     </children>
                 </node>
-
                 <node id="CharacterCreationAppearanceVisual"> FS
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -79,7 +78,8 @@
                         </node>
                     </children>
                 </node>
-<!--Wings-->				 
+
+            <!--Wings-->				 
 				 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -98,8 +98,9 @@
                     <attribute id="UUID" type="guid" value="2c76fd05-ae8f-4610-9f5e-1cc7b47ce834"/>
                     <attribute id="VisualResource" type="guid" value="f436aa51-f914-4625-991b-1e35a6684302"/>
                 </node>
-<!--Tails-->
-		<node id="CharacterCreationAppearanceVisual">
+
+            <!--Tails-->
+		        <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- Female Strong -->
