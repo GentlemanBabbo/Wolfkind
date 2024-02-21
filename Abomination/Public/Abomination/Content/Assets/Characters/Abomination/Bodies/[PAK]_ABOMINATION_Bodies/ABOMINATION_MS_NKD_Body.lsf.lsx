@@ -14703,13 +14703,6 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1b2015e2-5159-6362-e554-99b079ddf647" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.3_ABOMINATION_Body_A_Feathers_Mesh.2" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
-						</node>
 					</children>
 				</node>
 			</children>
