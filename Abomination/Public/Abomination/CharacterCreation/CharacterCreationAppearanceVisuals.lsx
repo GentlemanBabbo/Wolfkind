@@ -7,7 +7,7 @@
 		<!--Heads-->
 		<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
 				<node id="CharacterCreationAppearanceVisual"> Chimera1M - A
-					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
                     <attribute id="DisplayName" type="TranslatedString" handle="hc2e5c1dbg1784g4fc9gb982g2441b2c494a4" version="1"/> 
@@ -49,7 +49,7 @@
 		<!--Fake Genitals-->
 
                 <node id="CharacterCreationAppearanceVisual"> MS
-                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultForBodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
@@ -65,7 +65,7 @@
                 </node>
 
                 <node id="CharacterCreationAppearanceVisual"> FS
-                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultForBodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
@@ -81,7 +81,7 @@
                 </node>
 <!--Wings-->				 
 				 <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- Female Strong -->
                     <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
@@ -90,7 +90,7 @@
                     <attribute id="VisualResource" type="guid" value="8677402c-e525-493d-8e39-10328148748e"/>
                 </node>
                  <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- male Strong -->
                     <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
@@ -100,7 +100,7 @@
                 </node>
 <!--Tails-->
 		<node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- Female Strong -->
                     <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
@@ -109,7 +109,7 @@
                     <attribute id="VisualResource" type="guid" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3"/>
                 </node>
                  <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- male Strong -->
                     <attribute id="RaceUUID" type="guid" value="31c1d14f-2a46-4507-b9ba-b993bdffd298"/>
