@@ -637,9 +637,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/Abomination_MS_NKD_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ABOMINATION_MS_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/Abomination_MS_NKD_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ABOMINATION_MS_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="Base" />
@@ -647,7 +647,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
 							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="Abomination_MS_NKD_Body.ABOMINATION_MS_NKD_Body_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.ABOMINATION_MS_NKD_Body_A_Mesh.0" />
 						</node>
 					</children>
 				</node>
