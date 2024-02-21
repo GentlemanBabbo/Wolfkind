@@ -646,8 +646,13 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.ABOMINATION_MS_NKD_Body_A_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="40921643-5b0c-46c4-80aa-123cce77d2b8" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.1_ABOMINATION_M_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> Body
+							<attribute id="MaterialID" type="FixedString" value="40921643-5b0c-46c4-80aa-123cce77d2b8" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.2_ABOMINATION_Fur_A_Torso_Mesh.1" />
 						</node>
 					</children>
 				</node>
