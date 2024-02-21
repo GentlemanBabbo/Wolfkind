@@ -570,7 +570,7 @@
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Tails/ABOMINATION_MS_NKD_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Tails/ABOMINATION_MS_NKD_Tail/ABOMINATION_MS_NKD_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Tails/ABOMINATION_MS_NKD_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241509" />
 					<children>
 						<node id="AnimationWaterfall">

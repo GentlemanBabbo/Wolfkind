@@ -116,7 +116,7 @@
                     <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
                     <attribute id="SlotName" type="FixedString" value="Tail"/>
                     <attribute id="UUID" type="guid" value="7922ce98-d9ae-4b79-a2da-d9e42ce04e98"/>
-                    <attribute id="VisualResource" type="guid" value="76b422c6-c3c2-4578-a710-2cdd2895d887"/>
+                    <attribute id="VisualResource" type="guid" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3"/>
                 </node>
       </children>
     </node>
