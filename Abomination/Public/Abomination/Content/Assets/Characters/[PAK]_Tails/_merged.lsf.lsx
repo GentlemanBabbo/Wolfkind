@@ -943,7 +943,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="f436aa51-f914-4625-991b-1e35a6684302" />
+					<attribute id="ID" type="FixedString" value="be520fb8-da96-4e0f-b930-d0d3af272549" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="HUM_FS_HarpykWings" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />

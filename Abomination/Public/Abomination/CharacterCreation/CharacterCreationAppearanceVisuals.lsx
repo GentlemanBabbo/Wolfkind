@@ -87,7 +87,7 @@
                     <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
                     <attribute id="SlotName" type="FixedString" value="Horns"/>
                     <attribute id="UUID" type="guid" value="d56ae4a1-7cf4-4a7f-8740-405d95cb9d5b"/>
-                    <attribute id="VisualResource" type="guid" value="8677402c-e525-493d-8e39-10328148748e"/>
+                    <attribute id="VisualResource" type="guid" value="be520fb8-da96-4e0f-b930-d0d3af272549"/>
                 </node>
                  <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>

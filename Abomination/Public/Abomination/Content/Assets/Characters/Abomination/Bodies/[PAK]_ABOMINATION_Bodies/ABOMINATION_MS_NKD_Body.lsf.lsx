@@ -14675,7 +14675,7 @@
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ABOMINATION_MS_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />

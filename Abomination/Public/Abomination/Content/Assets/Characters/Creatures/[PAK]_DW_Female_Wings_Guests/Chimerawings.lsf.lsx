@@ -426,7 +426,7 @@
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="3ab16354-81a3-a5af-8b72-e7f3011deb7b" />
 					<attribute id="SkeletonSlot" type="FixedString" value="Wings" />
-					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="Slot" type="FixedString" value="Horns" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ABOMINATION_MS_NKD_Wings.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
