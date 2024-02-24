@@ -14688,7 +14688,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="21efde83-7cab-af95-594e-5002dc52f837" />
+							<attribute id="MaterialID" type="FixedString" value="623df39d-8e0e-16ab-0046-2590004b4a28" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.ABOMINATION_MS_NKD_Body.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
