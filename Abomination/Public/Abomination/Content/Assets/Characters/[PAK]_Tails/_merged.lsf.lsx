@@ -583,8 +583,8 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="093f7efd-75a1-470b-8bd8-da74dcc76ab7" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Tail.2_ABOMINATION_MS_NKD_Tail_A_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="623df39d-8e0e-16ab-0046-2590004b4a28" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Tail.ABOMINATION_MS_NKD_Tail_A_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
