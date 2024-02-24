@@ -92,26 +92,6 @@
                     </children>
                 </node>
 
-            <!--Wings-->				 
-				 <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- Female Strong -->
-                    <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
-                    <attribute id="UUID" type="guid" value="d56ae4a1-7cf4-4a7f-8740-405d95cb9d5b"/>
-                    <attribute id="VisualResource" type="guid" value="be520fb8-da96-4e0f-b930-d0d3af272549"/>
-                </node>
-                 <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- male Strong -->
-                    <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
-                    <attribute id="UUID" type="guid" value="2c76fd05-ae8f-4610-9f5e-1cc7b47ce834"/>
-                    <attribute id="VisualResource" type="guid" value="f436aa51-f914-4625-991b-1e35a6684302"/>
-                </node>
-
             <!--Tails-->
 		        <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
