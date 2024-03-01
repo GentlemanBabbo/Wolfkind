@@ -2443,12 +2443,12 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="40921643-5b0c-46c4-80aa-123cce77d2b8" />
+							<attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_A.1_ABOM_MS_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+							<attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_A.2_ABOM_MS_NKD_Head_A_Eyelashes_Mesh.1" />
 						</node>
 						<node id="Objects">
