@@ -14688,14 +14688,14 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
+							<attribute id="MaterialID" type="FixedString" value="4bbee8b9-2665-f6a5-2996-c575688a5e4f" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.1_ABOM_NKD_Body_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 				<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
+							<attribute id="MaterialID" type="FixedString" value="4bbee8b9-2665-f6a5-2996-c575688a5e4f" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.2_ABOM_NKD_BodyFur_Mesh.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
