@@ -2443,7 +2443,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
+							<attribute id="MaterialID" type="FixedString" value="4bbee8b9-2665-f6a5-2996-c575688a5e4f" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.1_ABOMINATION_C_Head_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -2465,11 +2465,6 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="dd6f58d6-32bf-8208-0ef8-240e4fe702fc" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.5_ABOMINATION_C_Whiskers_Mesh.4" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.6_ABOMINATION_C_Remap_Scalp_Mesh.5" />
 						</node>
 					</children>
 				</node>
