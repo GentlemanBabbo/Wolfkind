@@ -49,14 +49,14 @@
 		<!--Hair -->
 		
 			<!--Male Hair-->
-				<node id="CharacterCreationAppearanceVisual">No Hair M
+				<node id="CharacterCreationAppearanceVisual"> Hair A MS
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h43a69035gcd84g43cdga734gfcffb57def08" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0e0870a1g2ebag4465gaae7g80e7047ddb3a" version="1" />
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
-					<attribute id="UUID" type="guid" value="6f08c0f8-e691-4415-823b-e1ce75ab562c" /> <!-- must be unique -->
-					<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="UUID" type="guid" value="196213dc-eac5-4cbe-b1ee-0f98d2f13784" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="ecc70bb8-25e5-4531-98cc-462de841b512" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 		
