@@ -15,9 +15,9 @@
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_HEAD_A/ABOMINATION_MS_Head_base2.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_HEAD_A/ABOMINATION_MS_Head_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_HEAD_A/ABOMINATION_MS_Head_base2.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_HEAD_A/ABOMINATION_MS_Head_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
