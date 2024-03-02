@@ -14688,14 +14688,14 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="77f41080-89c8-a05c-b31a-31edc81ffa57" />
+							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.1_ABOM_NKD_Body_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 				<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="77f41080-89c8-a05c-b31a-31edc81ffa57" />
+							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.2_ABOM_NKD_BodyFur_Mesh.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
@@ -14709,7 +14709,7 @@
 						</node>
 				<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="2ee39b5f-1815-90ed-b8e1-bd7a97310cb9" />
+							<attribute id="MaterialID" type="FixedString" value="77f41080-89c8-a05c-b31a-31edc81ffa57" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.4_ABOM_NKD_Horns_Mesh.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
