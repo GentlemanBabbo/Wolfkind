@@ -2459,12 +2459,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="77f41080-89c8-a05c-b31a-31edc81ffa57" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.4_CYC_MS_NKD_Head_A_Scalp_Mesh.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="77f41080-89c8-a05c-b31a-31edc81ffa57" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.5_CYC_MS_NKD_Head_A_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.4_CYC_MS_NKD_Head_A_Tearline_Mesh.3" />
 						</node>
 					</children>
 				</node>
