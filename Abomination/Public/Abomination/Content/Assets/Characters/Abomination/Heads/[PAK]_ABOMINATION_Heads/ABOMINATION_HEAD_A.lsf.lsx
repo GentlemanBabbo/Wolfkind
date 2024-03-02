@@ -2448,7 +2448,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="4bbee8b9-2665-f6a5-2996-c575688a5e4f" />
+							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_A.2_ABOM_MS_NKD_Head_A_Eyelashes_Mesh.1" />
 						</node>
 						<node id="Objects">
