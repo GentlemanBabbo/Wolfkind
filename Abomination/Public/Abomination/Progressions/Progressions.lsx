@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Abomination" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(4d519463-7eb5-4205-938d-7c2fad76c65a);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b);AddSpells(4d519463-7eb5-4205-938d-7c2fad76c65a);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2)" />see below for explanation
                   <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)-->
                   This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
                   <!--AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b)-->
