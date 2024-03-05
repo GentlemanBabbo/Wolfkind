@@ -1,0 +1,13 @@
+{
+  "FileVersion": 1,
+  "Tags": [
+    {
+      "modGuids": ["a56867c9-8260-4685-b8a5-6cc94be41152"],
+      "Type": "Race",
+      "Tag": "AUTOMATON_31bb0980-fd80-4c56-98b2-d03ab7ab9163",
+      "ReallyTag": "AUTOMATON_31bb0980-fd80-4c56-98b2-d03ab7ab9163",
+      "TagsToExclude": ["Baldurian"],
+      "RaceMetaTags": ["Rare"]
+    }
+  ]
+}
