@@ -2,10 +2,10 @@
   "FileVersion": 1,
   "Tags": [
     {
-      "modGuids": ["a56867c9-8260-4685-b8a5-6cc94be41152"],
+      "modGuids": ["9475c715-e308-4377-9cac-32e996782042"],
       "Type": "Race",
-      "Tag": "AUTOMATON_31bb0980-fd80-4c56-98b2-d03ab7ab9163",
-      "ReallyTag": "AUTOMATON_31bb0980-fd80-4c56-98b2-d03ab7ab9163",
+      "Tag": "Abomination_625f9ff3-131f-436b-9d46-1bf9a008fa53",
+      "ReallyTag": "Abomination_625f9ff3-131f-436b-9d46-1bf9a008fa53",
       "TagsToExclude": ["Baldurian"],
       "RaceMetaTags": ["Rare"]
     }

@@ -16,7 +16,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" /> Custom Race tag
+									<attribute id="Object" type="guid" value="625f9ff3-131f-436b-9d46-1bf9a008fa53" /> Custom Race tag
 								</node>
 							</children>
 						</node>
@@ -36,7 +36,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" /> Custom Race tag
+									<attribute id="Object" type="guid" value="625f9ff3-131f-436b-9d46-1bf9a008fa53" /> Custom Race tag
 								</node>
 							</children>
 						</node>
@@ -63,7 +63,7 @@
 									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
@@ -91,7 +91,7 @@
 									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" /> Custom Sub Race tag
 								</node>
 							</children>
 						</node>
