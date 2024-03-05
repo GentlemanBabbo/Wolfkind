@@ -2466,6 +2466,11 @@
 							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_A.5_ABOM_MS_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
+				<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_A.6_ABOM_MS_NKD_Fur_A_Mesh.5" />
+						</node>
 					</children>
 				</node>
 			</children>
