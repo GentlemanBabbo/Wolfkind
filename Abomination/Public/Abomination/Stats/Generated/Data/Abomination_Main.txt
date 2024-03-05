@@ -17,15 +17,6 @@ data "Weight" "135"
 data "StepsType" "Bare"
 
 <!--------------------- Abomination Passives --------------------->
-
-new entry "Passive_TakeWing"
-type "PassiveData"
-data "Icon" "Action_Fly"
-data "DisplayName" "h912a2d17g842eg4bd3g9d02g456aa7f89751"
-data "Description" "h75b5e29fg4769g482fg9716gd56e106190c3"
-data "Boosts" "UnlockSpell(Projectile_Fly)"
-data "Properties" "Highlighted"
-
 new entry "Passive_Ripper"
 type "PassiveData"
 data "DisplayName" "hc621643cgfaa7g4a45ga874gb81ad9597bd3;2"
