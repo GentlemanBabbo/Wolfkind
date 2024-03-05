@@ -14642,7 +14642,7 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="EMPTY_VISUAL_TEMPLATE" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
 					<children>
