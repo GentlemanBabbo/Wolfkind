@@ -295,8 +295,8 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
-					<attribute id="BodySetVisual" type="FixedString" value="72a5d634-9b08-429f-b61e-c725f66cdbe3" />
-					<attribute id="ID" type="FixedString" value="67429690-cf77-4f87-8d2b-7697e8107eac" />
+					<attribute id="BodySetVisual" type="FixedString" value="67429690-cf77-4f87-8d2b-7697e8107eac" />
+					<attribute id="ID" type="FixedString" value="c4e74b0b-adc4-4c64-9e82-5cc6ec2e1f31" />
 					<attribute id="Name" type="LSString" value="Main_Male_Locust_Player_Strong" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
