@@ -130,7 +130,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="67429690-cf77-4f87-8d2b-7697e8107eac" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c4e74b0b-adc4-4c64-9e82-5cc6ec2e1f31" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />

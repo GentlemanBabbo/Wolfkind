@@ -5148,7 +5148,6 @@
 			</children>
 		</node>
 	</region>
-
 	<region id="AnimationSetBank">
 		<node id="AnimationSetBank">
 			<children>
@@ -7152,7 +7151,7 @@
 			</children>
 		</node>
 	</region>
-<region id="AnimationBank">
+	<region id="AnimationBank">
 		<node id="AnimationBank">
 			<children>
 				<node id="Resource">
