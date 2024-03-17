@@ -72,14 +72,14 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="269c5caf-7b85-4dc3-8c0c-a2f70980100b" /> POINTS TO NORMAL MAP
+							<attribute id="ID" type="FixedString" value="4765efde-ce18-4bab-b4fc-c7955410dc57" /> POINTS TO NORMAL MAP
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="f00feba6-4596-49eb-a07b-cb31acfdd824" /> BM, Base map, diffuse
+							<attribute id="ID" type="FixedString" value="b4e35b8b-4492-41a0-a635-347dcef3f21e" /> BM, Base map, diffuse
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 						</node>
 						<node id="Texture2DParameters">
@@ -93,7 +93,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="e100e687-b3a7-443d-a0e7-4bb4850dedef" /> Physical map
+							<attribute id="ID" type="FixedString" value="661989d8-e8d9-46f7-ad73-52de99abad4c" /> Physical map
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 						</node>
 						<node id="Vector3Parameters">
