@@ -11,7 +11,7 @@
             <attribute id="Name" type="FixedString" value="Abomination" />       internal name for race
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
             <attribute id="ProgressionTableUUID" type="guid" value="d677ef04-19ea-4f8a-8229-0f655f233a20" />    the level up stuff under the Progressions folder, diff from subrace
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" />           sound it makes when you select the race
+            <attribute id="RaceSoundSwitch" type="FixedString" value="Dragonborn" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> Race UUID, keep this for adding hairs etc
                 <children>
                         <node id="EyeColors">
@@ -1643,7 +1643,7 @@
             <attribute id="Name" type="FixedString" value="Chimera" />       internal name for subrace
             <attribute id="ParentGuid" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" />      subrace of Custom Race Main
             <attribute id="ProgressionTableUUID" type="guid" value="2a19ff33-6668-47b4-943b-6d713b16253f" />    the level up stuff under the Progressions folder, diff from main race
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" />           sound it makes when you select the subrace
+            <attribute id="RaceSoundSwitch" type="FixedString" value="Dragonborn" />           sound it makes when you select the subrace
             <attribute id="UUID" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> Race UUID, keep this for adding hairs etc
                 <children>                 
                 </children>
