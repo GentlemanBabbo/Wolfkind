@@ -28,6 +28,30 @@
           <attribute id="UUID" type="guid" value="d9a39e7b-8dd4-47f8-b28a-19cec0e0d2d7"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
+				<node id="CharacterCreationPreset"> F
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="b1a83755-5bb6-41c8-9e37-babe3619b2ee"/>
+					<attribute id="SubRaceUUID" type="guid" value="05914a70-00cf-4942-824b-85214f8b61b2"/>
+          <attribute id="UUID" type="guid" value="2edf1f5d-b986-47bf-aa0c-8db7a5bef114"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset"> M
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="547b836b-73b3-4302-8c18-1716f4d747c3"/>
+					<attribute id="SubRaceUUID" type="guid" value="05914a70-00cf-4942-824b-85214f8b61b2"/>
+          <attribute id="UUID" type="guid" value="6854f95f-99a7-42d5-a37b-a54dc41e6bd7"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
       </children>
     </node>
   </region>
