@@ -25,7 +25,7 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="ed6a7044-0801-4c96-a2fd-f7b9193feea6" />
+					<attribute id="ID" type="FixedString" value="696b8885-049f-48f7-9806-2538bad2639f" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="Locust_M_Head_base" />
