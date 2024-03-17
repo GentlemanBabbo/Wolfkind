@@ -297,7 +297,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
 					<attribute id="BodySetVisual" type="FixedString" value="72a5d634-9b08-429f-b61e-c725f66cdbe3" />
 					<attribute id="ID" type="FixedString" value="67429690-cf77-4f87-8d2b-7697e8107eac" />
-					<attribute id="Name" type="LSString" value="Main_Male_Chimera_Player_Strong" />
+					<attribute id="Name" type="LSString" value="Main_Male_Locust_Player_Strong" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -329,7 +329,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="6b1034a1-fac1-4075-83f1-0c682c32087e" />
+							<attribute id="VisualResource" type="FixedString" value="3baeaf60-1847-43c4-8f01-a2b13dc6344f" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
