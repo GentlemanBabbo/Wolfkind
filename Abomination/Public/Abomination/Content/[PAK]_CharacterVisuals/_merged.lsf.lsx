@@ -194,7 +194,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="1dcf50ab-a802-49d1-8d4f-19df1070ad1d" />
+							<attribute id="VisualResource" type="FixedString" value="6b1034a1-fac1-4075-83f1-0c682c32087e" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
