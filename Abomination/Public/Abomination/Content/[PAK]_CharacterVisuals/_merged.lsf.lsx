@@ -5,7 +5,7 @@
 		<node id="CharacterVisualBank">
 			<children>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="8b6061bf-f71c-9496-bd22-6b5eb1998ddc" /> base animations
+					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="72a5d634-9b08-429f-b61e-c725f66cdbe3" /> body model
 					<attribute id="ID" type="FixedString" value="400c7e56-2b6d-41aa-8bde-e358cbb0ce3b" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
@@ -78,7 +78,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
+					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
 					<attribute id="BodySetVisual" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="ID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" />
 					<attribute id="Name" type="LSString" value="Main_Female_Chimera_Player_Strong" />
@@ -159,7 +159,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
 					<attribute id="BodySetVisual" type="FixedString" value="72a5d634-9b08-429f-b61e-c725f66cdbe3" />
 					<attribute id="ID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" />
 					<attribute id="Name" type="LSString" value="Main_Male_Chimera_Player_Strong" />
