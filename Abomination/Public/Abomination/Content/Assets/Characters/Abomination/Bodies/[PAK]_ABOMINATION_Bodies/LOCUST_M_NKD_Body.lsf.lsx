@@ -199,7 +199,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="2b078d78-2036-492b-9edf-50e1edf8879e" />
+							<attribute id="MaterialID" type="FixedString" value="e633b7a1-dc5d-45b6-a7f7-1e6f13459413" />
 							<attribute id="ObjectID" type="FixedString" value="Locust_M_NKD_Body.1_LOC_M_NKD_Body.0" />
 						</node>
 					</children>
