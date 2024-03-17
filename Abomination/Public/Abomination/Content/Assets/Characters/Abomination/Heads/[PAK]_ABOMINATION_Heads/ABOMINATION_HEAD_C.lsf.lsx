@@ -2476,11 +2476,6 @@
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.7_CHIM_MS_NKD_Head_A_Eyeshadow_Mesh.3" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f24c6c0c-f398-0497-3442-f92c56cde020" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.8_CHIM_MS_NKD_Head_A_Scalp_Mesh.3" />
-						</node>
 					</children>
 				</node>
 			</children>
