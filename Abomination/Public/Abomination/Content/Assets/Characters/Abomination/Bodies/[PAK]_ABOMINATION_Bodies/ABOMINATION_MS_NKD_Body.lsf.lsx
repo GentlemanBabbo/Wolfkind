@@ -14688,14 +14688,14 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
+							<attribute id="MaterialID" type="FixedString" value="6181404f-fc33-9234-3c0a-3f58210507a0" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.WRWOLF_Body.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 				<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
+							<attribute id="MaterialID" type="FixedString" value="fb1478cd-991b-8bb0-c3c5-977ddb9949fa" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.WRWOLF_Fur_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
