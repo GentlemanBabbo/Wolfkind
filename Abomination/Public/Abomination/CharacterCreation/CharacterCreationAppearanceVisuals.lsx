@@ -94,6 +94,19 @@
 					<attribute id="VisualResource" type="guid" value="a15793fa-de6c-44a2-9b2a-d5901f1a2657" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
+
+<!--Chimera Fur-->
+
+				<node id="CharacterCreationAppearanceVisual"> Fur A - Chimera
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h1b80a5bdgf55432866g9e1rgd150eb3c38a3" version="1" />
+					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					<attribute id="SlotName" type="FixedString" value="DragobornTop" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="2f2cc905-884c-49f1-8bbe-4a96485e0ecf" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="57e7bf11-9d37-49a1-ada2-fea81246d40d" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
 		
             <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
