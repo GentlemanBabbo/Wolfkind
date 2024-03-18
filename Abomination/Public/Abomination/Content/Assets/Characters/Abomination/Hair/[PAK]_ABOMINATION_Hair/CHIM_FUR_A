@@ -1,0 +1,68 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="2" />
+    <region id="VisualBank"> <!-- you only need VisualBank if you don't plan on making custom textures or materials  -->
+            <node id="VisualBank">
+                <children>
+                    <node id="Resource"> Fur A
+                        <attribute id="AttachBone" type="FixedString" value="" />
+                        <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+                        <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+                        <attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+                        <attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+                        <attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+                        <attribute id="ClothColliderResourceID" type="FixedString" value="" />
+                        <attribute id="HairPresetResourceId" type="FixedString" value="" />
+                        <!-- ^ Either use from a hair you like (how much frizz it has, how much wind affects it, etc) or make your own.-->
+                        <attribute id="HairType" type="uint8" value="0" />
+                        <attribute id="ID" type="FixedString" value="57e7bf11-9d37-49a1-ada2-fea81246d40d" />
+                        <!-- ^ Make a new UUID and make sure it matches VisualResourceID in CharacterCreationAppearanceVisuals. -->
+                        <attribute id="Initialized" type="bool" value="True" />
+                        <attribute id="Localized" type="bool" value="False" />
+                        <attribute id="MaterialType" type="uint8" value="0" />
+                        <attribute id="Name" type="LSString" value="CHIMERA_M_FUR_A_DBNTOP" />
+                        <!-- ^ Name of your GR2. -->
+                        <attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+                        <!-- ^ Change to false if not auto-snap. -->
+                        <attribute id="Radius" type="float" value="0.2880241" />
+                        <attribute id="ScalpMaterialId" type="FixedString" value="" />
+                        <!-- ^ Use from a scalp you like. -->
+                        <attribute id="SkeletonResource" type="FixedString" value="" />
+                        <!-- ^ If the hair you're referencing uses physics, copy the SkeletonResource ID here. -->
+                        <attribute id="SkeletonSlot" type="FixedString" value="" />
+                        <attribute id="Slot" type="FixedString" value="DragonbornTop" />
+                        <!-- ^ This should stay as Hair... unless you're using my template to make horns or something. No judgement. :) -->
+                        <attribute id="SoftbodyResourceID" type="FixedString" value="" />
+                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_CHIMERA_Fur/CHIMERA_M_FUR_A_DBNTOP.GR2" />
+                        <!-- ^ Make sure this matches your folder structure. -->
+                        <attribute id="SupportsVertexColorMask" type="bool" value="False" />
+                        <attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_CHIMERA_Fur/CHIMERA_M_FUR_A_DBNTOP.Dummy_Root.0" />
+                        <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
+                        <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+                        <children>
+                            <node id="Base" />
+                            <node id="Objects">
+                                <attribute id="LOD" type="uint8" value="0" />
+                                <attribute id="MaterialID" type="FixedString" value="ea7c5d28-222e-f4ca-dd21-44a51511eb18" />
+                                <!-- ^ Use from a hair material you like. -->
+                                <attribute id="ObjectID" type="FixedString" value="CHIMERA_M_FUR_A_DBNTOP.WRWOLF_Head_Fur_A_Mesh.0" />
+                                <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
+                                <attribute id="Physics" type="FixedString" value="" />
+                                <attribute id="Slot" type="FixedString" value="" />
+                            </node>
+                            <node id="Objects">
+                                <attribute id="LOD" type="uint8" value="0" />
+                                <attribute id="MaterialID" type="FixedString" value="ea7c5d28-222e-f4ca-dd21-44a51511eb18" />
+                                <!-- ^ Use from a hair material you like. -->
+                                <attribute id="ObjectID" type="FixedString" value="CHIMERA_M_FUR_A_DBNTOP.WRWOLF_Head_Fur_A_Mesh.1" />
+                                <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
+                                <attribute id="Physics" type="FixedString" value="" />
+                                <attribute id="Slot" type="FixedString" value="" />
+                            </node>
+                        </children>
+                    </node>
+		</children>
+            </node>
+    </region>
+</save>
