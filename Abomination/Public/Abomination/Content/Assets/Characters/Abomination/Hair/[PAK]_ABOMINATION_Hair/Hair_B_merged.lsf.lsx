@@ -22,7 +22,7 @@
                         <attribute id="MaterialType" type="uint8" value="0" />
                         <attribute id="Name" type="LSString" value="ABOMINATION_NKD_MS_Hair_B" />
                         <!-- ^ Name of your GR2. -->
-                        <attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+                        <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
                         <!-- ^ Change to false if not auto-snap. -->
                         <attribute id="Radius" type="float" value="0.2880241" />
                         <attribute id="ScalpMaterialId" type="FixedString" value="" />
