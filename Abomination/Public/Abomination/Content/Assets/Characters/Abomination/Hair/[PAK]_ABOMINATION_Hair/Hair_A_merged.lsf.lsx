@@ -43,18 +43,9 @@
                             <node id="Base" />
                             <node id="Objects">
                                 <attribute id="LOD" type="uint8" value="0" />
-                                <attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
+                                <attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
                                 <!-- ^ Use from a hair material you like. -->
                                 <attribute id="ObjectID" type="FixedString" value="ABOMINATION_NKD_MS_Hair_A.1_ABOM_Hair_A.0" />
-                                <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
-                                <attribute id="Physics" type="FixedString" value="" />
-                                <attribute id="Slot" type="FixedString" value="" />
-                            </node>
-                            <node id="Objects">
-                                <attribute id="LOD" type="uint8" value="0" />
-                                <attribute id="MaterialID" type="FixedString" value="c6e32752-54d1-fb21-9d86-b279c17b7113" />
-                                <!-- ^ Use from a hair material you like. -->
-                                <attribute id="ObjectID" type="FixedString" value="ABOMINATION_NKD_MS_Hair_A.1_ABOM_Hair_A.1" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
                                 <attribute id="Physics" type="FixedString" value="" />
                                 <attribute id="Slot" type="FixedString" value="" />
