@@ -2448,8 +2448,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.2_CHIM_Head_Fur_A_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value=""f24c6c0c-f398-0497-3442-f92c56cde020" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_C.2_CHIM_Head_Scalp_A_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
