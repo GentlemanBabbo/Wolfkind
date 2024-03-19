@@ -629,7 +629,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="CHIMERA_FS_NKD" />
+					<attribute id="Name" type="LSString" value="ABOMINATION_FS_NKD_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
