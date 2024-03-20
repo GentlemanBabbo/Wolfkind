@@ -564,7 +564,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="Radius" type="float" value="0.7664916" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="7b35abc8-bf7b-6810-e2a0-28091ecac7d1" />
+					<attribute id="SkeletonResource" type="FixedString" value="6c6547c2-ea33-c498-20e9-1e5447e2ab9a" />
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
