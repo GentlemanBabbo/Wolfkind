@@ -6827,26 +6827,263 @@
 					<attribute id="Name" type="LSString" value="COLORABLE_ABOMINATION_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+						<node id="ScalarParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="54ecc115-2c3a-492f-933d-7d674c05df58" />
+							<attribute id="Value" type="float" value="0.5" />
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="UniformName" type="FixedString" value="FloatParameter_Reflectance" />
+							<attribute id="StaticForward" type="uint16" value="12" />
+							<attribute id="StaticInstancedForward" type="uint16" value="12" />
+							<attribute id="StaticDeferred" type="uint16" value="12" />
+							<attribute id="StaticInstancedDeferred" type="uint16" value="12" />
+							<attribute id="StaticBake" type="uint16" value="12" />
+							</node>
+						<node id="Vector3Parameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinColor" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="Value" type="fvec3" value="0.1686275 0.1372549 0.1137255" />
+							<attribute id="BaseValue" type="fvec3" value="0.1686275 0.1372549 0.1137255" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="UniformName" type="FixedString" value="Vector3Parameter_NonSkinColor" />
+							<attribute id="StaticForward" type="uint16" value="0" />
+							<attribute id="StaticInstancedForward" type="uint16" value="0" />
+							<attribute id="StaticDeferred" type="uint16" value="0" />
+							<attribute id="StaticInstancedDeferred" type="uint16" value="0" />
+							<attribute id="StaticBake" type="uint16" value="0" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinTipColor" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="Value" type="fvec3" value="0.09411765 0.07058824 0.05490196" />
+							<attribute id="BaseValue" type="fvec3" value="0.09411765 0.07058824 0.05490196" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="UniformName" type="FixedString" value="Vector3Parameter_NonSkinTipColor" />
+							<attribute id="StaticForward" type="uint16" value="16" />
+							<attribute id="StaticInstancedForward" type="uint16" value="16" />
+							<attribute id="StaticDeferred" type="uint16" value="16" />
+							<attribute id="StaticInstancedDeferred" type="uint16" value="16" />
+							<attribute id="StaticBake" type="uint16" value="16" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="SkinApproxColor" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="Value" type="fvec3" value="0.5699794 0.1131871 0.1007226" />
+							<attribute id="BaseValue" type="fvec3" value="0.5699794 0.1131871 0.1007226" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="UniformName" type="FixedString" value="Vector3Parameter_SkinApproxColor" />
+							<attribute id="StaticForward" type="uint16" value="32" />
+							<attribute id="StaticInstancedForward" type="uint16" value="32" />
+							<attribute id="StaticDeferred" type="uint16" value="32" />
+							<attribute id="StaticInstancedDeferred" type="uint16" value="32" />
+							<attribute id="StaticBake" type="uint16" value="32" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="ID" type="FixedString" value="fafa96ef-8e21-4860-b4aa-2703d4e570d5" />
+							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap" />
+							<children>
+								<node id="StaticForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="2" />
+								</node>
+								<node id="StaticInstancedForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="2" />
+								</node>
+								<node id="StaticDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="2" />
+								</node>
+								<node id="StaticInstancedDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="2" />
+								</node>
+								<node id="StaticBake">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="1eeb48e7-3863-42fc-a42d-780bbc10850d" />
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+							<attribute id="ID" type="FixedString" value="e88ef955-6343-4917-abbc-92ad9ccbb74b" />
+							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor" />
+							<children>
+								<node id="StaticForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="3" />
+								</node>
+								<node id="StaticInstancedForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="3" />
+								</node>
+								<node id="StaticDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="3" />
+								</node>
+								<node id="StaticInstancedDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="3" />
+								</node>
+								<node id="StaticBake">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="2" />
+								</node>
+							</children>
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="SkinGradientHorn_MSK" />
+							<attribute id="GroupName" type="FixedString" value="" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
-							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+							<attribute id="ID" type="FixedString" value="8f1f209a-dd37-4531-b1ee-5e81c1d169cc" />
+							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_SkinGradientHorn_MSK" />
+							<children>
+								<node id="StaticForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="2" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="4" />
+								</node>
+								<node id="StaticInstancedForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="2" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="4" />
+								</node>
+								<node id="StaticDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="2" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="4" />
+								</node>
+								<node id="StaticInstancedDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="2" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="4" />
+								</node>
+								<node id="StaticBake">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="2" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="3" />
+								</node>
+							</children>
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="ID" type="FixedString" value="1e799122-f3b0-41d6-9c75-27058944ea00" />
+							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap" />
+							<children>
+								<node id="StaticForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="3" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="5" />
+								</node>
+								<node id="StaticInstancedForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="3" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="5" />
+								</node>
+								<node id="StaticDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="3" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="5" />
+								</node>
+								<node id="StaticInstancedDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="3" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="5" />
+								</node>
+								<node id="StaticBake">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="3" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="4" />
+								</node>
+							</children>
+						</node>
+						<node id="SamplerStateParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="_DefaultWrapSampler" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="UniformName" type="FixedString" value="_DefaultWrapSampler" />
+							<children>
+								<node id="StaticForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="15" />
+									<attribute id="VkDescriptorSet" type="int8" value="0" />
+									<attribute id="VkBindingIndex" type="int8" value="7" />
+								</node>
+								<node id="StaticInstancedForward">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="15" />
+									<attribute id="VkDescriptorSet" type="int8" value="0" />
+									<attribute id="VkBindingIndex" type="int8" value="7" />
+								</node>
+								<node id="StaticDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="15" />
+									<attribute id="VkDescriptorSet" type="int8" value="0" />
+									<attribute id="VkBindingIndex" type="int8" value="7" />
+								</node>
+								<node id="StaticInstancedDeferred">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="15" />
+									<attribute id="VkDescriptorSet" type="int8" value="0" />
+									<attribute id="VkBindingIndex" type="int8" value="7" />
+								</node>
+								<node id="StaticBake">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="15" />
+									<attribute id="VkDescriptorSet" type="int8" value="0" />
+									<attribute id="VkBindingIndex" type="int8" value="7" />
+								</node>
+							</children>
 						</node>
 					</children>
 				</node>
@@ -7145,117 +7382,6 @@
 					<attribute id="Template" type="FixedString" value="WRWOLF_Body_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
-				</node>
-
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="0fdab970-b942-fbea-3efe-ddafb9910730" />
-					<attribute id="Name" type="LSString" value="HARPY_Body_A_CLEA" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Body_A_CLEA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Body_A_CLEA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="16d5d763-57ff-31bf-480a-ed002a86e38a" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HARPY_Body_A_BMA" />
-					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Body_A_BMA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Body_A_BMA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="399fdf49-c2ba-6c34-7c29-5e6bfd7da6a8" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HARPY_Body_A_MSK" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Body_A_MSK.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Body_A_MSK" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="0" />
-					<attribute id="Height" type="int32" value="256" />
-					<attribute id="ID" type="FixedString" value="5636e86b-ef9a-b665-9374-f55e8db5df80" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HARPY_Feathers_A_NM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Feathers_A_NM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Feathers_A_NM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="256" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="69bf4994-c56c-a903-6eec-87049c11f90a" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HARPY_Body_A_NM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Body_A_NM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Body_A_NM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="79f882d2-2c00-a028-e30b-a7a80f03b097" />
-					<attribute id="Name" type="LSString" value="HARPY_Body_A_HMVY" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Body_A_HMVY.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Body_A_HMVY" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="7c6a8e61-b7ea-f51b-071f-3f468b7e25ea" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HARPY_Hair_A_MSKA" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Hair_A_MSKA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Hair_A_MSKA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241409" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="0" />
-					<attribute id="Height" type="int32" value="256" />
-					<attribute id="ID" type="FixedString" value="b3f7dfd2-8329-6da4-e08e-babb27a974b5" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HARPY_Feathers_A_BMA" />
-					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_Creatures/Harpy/Resources/HARPY_Feathers_A_BMA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HARPY_Feathers_A_BMA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="256" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
 				</node>
 			</children>
@@ -14790,7 +14916,7 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-				<node id="Resource"> ABOM_MS_Base
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="42e75385-59d5-2742-2777-20643a0aca5b" />
@@ -14932,7 +15058,7 @@
 						<node id="ClothProxyMapping" />
 					</children>
 				</node>
-				<node id="Resource"> ABOMINATION_MS_NKD_Body
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -14965,14 +15091,14 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6181404f-fc33-9234-3c0a-3f58210507a0" />
+							<attribute id="MaterialID" type="FixedString" value="445f2100-b271-4f98-bec4-ec5f74d79892a0" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.WRWOLF_Body.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 				<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
+							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f241" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.WRWOLF_Fur_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
