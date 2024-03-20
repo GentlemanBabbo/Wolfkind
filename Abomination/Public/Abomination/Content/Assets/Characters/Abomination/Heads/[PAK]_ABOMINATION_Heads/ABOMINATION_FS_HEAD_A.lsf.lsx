@@ -8,16 +8,16 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="ID" type="FixedString" value="fa58bbcf-acf1-41a9-a8aa-19d21529cfbe" />
-					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
+					<attribute id="IKRigResourceID" type="FixedString" value="3348d473-abeb-45d8-b17f-8f7697f1052b" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Stoneborn_FS_Head_Base" />
+					<attribute id="Name" type="LSString" value="Abomination_FS_Head_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_FS_HEAD_A/Stoneborn_FS_Head_Base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_FS_Head_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_FS_HEAD_A/Stoneborn_FS_Head_Base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_FS_Head_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -1571,9 +1571,9 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="5c6fb640-38fa-4ca5-b900-9bb29652c6f5" />
+					<attribute id="ID" type="FixedString" value="b08cf8ef-a858-410b-b8c6-2b01cf1f1503" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="STONE_FS_HEAD_A" />
+					<attribute id="Name" type="LSString" value="Abomination_FS_HEAD_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -2377,9 +2377,9 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="87312ab3-e666-4b77-a57f-ddd3b5cc882f" />
+					<attribute id="ID" type="FixedString" value="0d1b7f27-a206-44a8-a3a4-696a5d0c4552" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="STONE_FS_HEAD_A" />
+					<attribute id="Name" type="LSString" value="Abomination_FS_HEAD_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SourceFile" type="LSString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -2412,18 +2412,18 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="72f7e8d0-7a29-4cfb-acf9-087cee9f6964" />
+					<attribute id="ID" type="FixedString" value="3fe696e3-400b-4c4f-a78c-53c8068bd97e" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="STONE_FS_HEAD_A" />
+					<attribute id="Name" type="LSString" value="Abomination_FS_HEAD_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="753a5f47-65dc-a6e5-7c0f-0a2572e25ac6" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_FS_HEAD_A/STONE_FS_HEAD_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_FS_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_FS_HEAD_A/STONE_FS_HEAD_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/ABOMINATION_FS_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2443,43 +2443,38 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.1_STONE_FS_NKD_Head_A_Mouth_Interior_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="f24c6c0c-f398-0497-3442-f92c56cde020" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.1_CHIM_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.2_STONE_FS_NKD_Head_A_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="17c677a9-49a5-54d1-9502-4903b2e0a872" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.2_CHIM_FS_NKD_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.3_STONE_FS_NKD_Head_A_Eyes_Mesh.2" />
+							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.3_CHIM_FS_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.4_STONE_FS_NKD_Head_A_Scalp_Mesh.3" />
+							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.4_CHIM_Head_Fur_A_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.5_STONE_FS_NKD_Head_A_Tearline_Mesh.4" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.6_STONE_FS_NKD_Head_A_Eyelashes_Mesh.5" />
+							<attribute id="MaterialID" type="FixedString" value="8089f3a7-638b-1768-b6a4-43e1b0892e23" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.5_CHIM_FS_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.7_STONE_FS_NKD_Head_A_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.6_CHIM_FS_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_A.8_STONE_FS_NKD_Head_A_Ears_Mesh.7" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.7_CHIM_FS_NKD_Head_A_Eyeshadow_Mesh.6" />
 						</node>
 					</children>
 				</node>
