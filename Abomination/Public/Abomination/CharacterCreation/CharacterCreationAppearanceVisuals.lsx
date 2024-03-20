@@ -4,8 +4,8 @@
     <region id="CharacterCreationAppearanceVisuals">
         <node id="root">
             <children>
-		<!--Heads-->
-		<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
+		<!--Male Chimera Heads-->
+			<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
 				<node id="CharacterCreationAppearanceVisual"> Chimera1M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -46,7 +46,7 @@
 				Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 
 				Half-Orc: 5c39a726-71c8-4748-ba8d-f768b3c11a91-->
 
-<!--Female Chimera Heads-->
+		<!--Female Chimera Heads-->
 
 				<node id="CharacterCreationAppearanceVisual"> Chimera1M - C
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
@@ -62,7 +62,7 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
-<!--Locust Heads-->
+		<!--Locust Heads-->
 				<node id="CharacterCreationAppearanceVisual"> Locust1M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -111,7 +111,7 @@
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 
-<!--Chimera Fur-->
+		<!--Chimera Fur-->
 
 				<node id="CharacterCreationAppearanceVisual"> Fur A - Chimera
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
@@ -124,7 +124,7 @@
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 		
-            <!--Fake Genitals-->
+        <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
@@ -156,7 +156,7 @@
                     </children>
                 </node>
 
-            <!--Tails-->
+        <!--Tails-->
 		        <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -174,6 +174,25 @@
                     <attribute id="SlotName" type="FixedString" value="Tail"/>
                     <attribute id="UUID" type="guid" value="7922ce98-d9ae-4b79-a2da-d9e42ce04e98"/>
                     <attribute id="VisualResource" type="guid" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3"/>
+                </node>
+		<!--Horns-->
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- female Strong -->
+                    <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="eedb53e7-c181-47e8-b001-07fb78c9ab40"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2902182g9649g4415g8f38gddc95633cbfe" version="1"/>  <!-- male Strong -->
+                    <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="90e76752-8e04-4c26-8d4d-ca347bc732bb"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 </node>
       </children>
     </node>
