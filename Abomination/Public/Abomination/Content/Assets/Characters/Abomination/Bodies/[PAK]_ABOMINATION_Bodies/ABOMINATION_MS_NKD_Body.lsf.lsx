@@ -7348,11 +7348,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="1eeb48e7-3863-42fc-a42d-780bbc10850d" />
-					<attribute id="Name" type="LSString" value="WRWOLF_Body_CLEA" />
+					<attribute id="Name" type="LSString" value="WRWOLF_Body_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="WRWOLF_Body_CLEA" />
+					<attribute id="Template" type="FixedString" value="WRWOLF_Body_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -7361,11 +7361,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
-					<attribute id="Name" type="LSString" value="WRWOLF_Body_HMVY" />
+					<attribute id="Name" type="LSString" value="WRWOLF_Body_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="WRWOLF_Body_HMVY" />
+					<attribute id="Template" type="FixedString" value="WRWOLF_Body_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
