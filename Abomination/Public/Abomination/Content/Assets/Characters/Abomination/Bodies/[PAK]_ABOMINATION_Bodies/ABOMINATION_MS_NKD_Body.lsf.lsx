@@ -6867,7 +6867,7 @@
 					<attribute id="ID" type="FixedString" value="445f2100-b271-4f98-bec4-ec5f74d79892" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="COLORABLE_ABOMINATION_MAT" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
 					<children>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -6988,7 +6988,7 @@
 					<attribute id="ID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="WRWOLF_Body_Fur_A" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Hair.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="ScalarParameters">
@@ -7244,11 +7244,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="1eeb48e7-3863-42fc-a42d-780bbc10850d" />
-					<attribute id="Name" type="LSString" value="WRWOLF_Body_BM" />
+					<attribute id="Name" type="LSString" value="WRWOLF_Body_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="WRWOLF_Body_BM" />
+					<attribute id="Template" type="FixedString" value="WRWOLF_Body_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -7257,11 +7257,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
-					<attribute id="Name" type="LSString" value="WRWOLF_Body_PM" />
+					<attribute id="Name" type="LSString" value="WRWOLF_Body_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_PM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="WRWOLF_Body_PM" />
+					<attribute id="Template" type="FixedString" value="WRWOLF_Body_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -15098,7 +15098,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="445f2100-b271-4f98-bec4-ec5f74d79892" />
+							<attribute id="MaterialID" type="FixedString" value="6181404f-fc33-9234-3c0a-3f58210507a0" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.WRWOLF_Body.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
