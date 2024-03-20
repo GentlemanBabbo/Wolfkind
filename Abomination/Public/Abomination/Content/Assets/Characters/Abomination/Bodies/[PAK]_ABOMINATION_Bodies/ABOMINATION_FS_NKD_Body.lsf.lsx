@@ -629,7 +629,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="CHIMERA_FS_NKD" />
+					<attribute id="Name" type="LSString" value="ABOMINATION_FS_NKD_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -637,17 +637,22 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/Abomination_FS_NKD.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/ABOMINATION_FS_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/Abomination_FS_NKD.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/ABOMINATION_FS_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="71729fed-2fd9-4351-866e-ce6b353eba33" />
-							<attribute id="ObjectID" type="FixedString" value="Abomination_FS_NKD.1_ABOMINATION_FS_NKD_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="6181404f-fc33-9234-3c0a-3f58210507a0" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_NKD_Body.1_CHIM_F_Body.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> Fur
+							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_NKD_Body.2_CHIM_Fur_Body.1" />
 						</node>
 					</children>
 				</node>

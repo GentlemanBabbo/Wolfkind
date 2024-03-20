@@ -46,6 +46,22 @@
 				Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 
 				Half-Orc: 5c39a726-71c8-4748-ba8d-f768b3c11a91-->
 
+<!--Female Chimera Heads-->
+
+				<node id="CharacterCreationAppearanceVisual"> Chimera1M - C
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h49cda8e0g95afg4ae2ga99eg1f9c8bdb7874" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="f0e7479f-4693-4104-b79f-5e36fb89a8cf"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="3fe696e3-400b-4c4f-a78c-53c8068bd97e"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+
 <!--Locust Heads-->
 				<node id="CharacterCreationAppearanceVisual"> Locust1M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
