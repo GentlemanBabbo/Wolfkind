@@ -164,7 +164,7 @@
                     <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
                     <attribute id="SlotName" type="FixedString" value="Tail"/>
                     <attribute id="UUID" type="guid" value="4bfbcba4-5b44-42df-a958-41d607600b91"/>
-                    <attribute id="VisualResource" type="guid" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3"/>
+                    <attribute id="VisualResource" type="guid" value="9d62f95e-a3dc-4ea5-94a1-e25b1f3860c9"/>
                 </node>
                  <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
