@@ -48,7 +48,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="BaseVisual" type="FixedString" value="b3ec0c57-67fb-4a85-8880-ec65c18f7d81" />
 					<attribute id="BodySetVisual" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="ID" type="FixedString" value="1bc12177-2e29-43ed-bcc0-1274eb630520" />
 					<attribute id="Localized" type="bool" value="False" />
@@ -78,7 +78,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
+					<attribute id="BaseVisual" type="FixedString" value="b3ec0c57-67fb-4a85-8880-ec65c18f7d81" />
 					<attribute id="BodySetVisual" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="ID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" />
 					<attribute id="Name" type="LSString" value="Main_Female_Chimera_Player_Strong" />
@@ -139,7 +139,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Tail" />
-							<attribute id="VisualResource" type="FixedString" value="9c038f86-2f76-4e55-920e-aa5c0d364fb3" />
+							<attribute id="VisualResource" type="FixedString" value="48e8fcd7-8621-4b4f-aa07-e48784e2e5ae" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -221,7 +221,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
+					<attribute id="BaseVisual" type="FixedString" value="b3ec0c57-67fb-4a85-8880-ec65c18f7d81" />
 					<attribute id="BodySetVisual" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
 					<attribute id="ID" type="FixedString" value="f3d1db73-00e9-427e-950c-3b64319a7c7c" />
 					<attribute id="Name" type="LSString" value="Main_Female_Locust_Player_Strong" />
