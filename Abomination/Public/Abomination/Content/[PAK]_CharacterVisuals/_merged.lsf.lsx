@@ -201,6 +201,10 @@
 							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="84ea51a2-f91a-4aca-98aa-8845f753f654" />
+						</node>
+						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
 							<attribute id="VisualResource" type="FixedString" value="57e7bf11-9d37-49a1-ada2-fea81246d40d" />
 						</node>
