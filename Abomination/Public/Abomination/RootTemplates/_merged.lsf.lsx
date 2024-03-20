@@ -49,7 +49,7 @@
 					<attribute id="Name" type="LSString" value="Abomination_Female_Chimera_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
+					<attribute id="ParentTemplateId" type="FixedString" value="555341db-8821-4b7e-ac81-efc2a6b7247c" /> inherits from normal CustomRace body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
@@ -75,7 +75,7 @@
 					<attribute id="Name" type="LSString" value="Abomination_Male_Chimera_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="0fad80c6-9438-409b-9030-fd4cd527f566" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
