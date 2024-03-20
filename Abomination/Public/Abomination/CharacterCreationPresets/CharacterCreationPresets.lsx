@@ -5,7 +5,7 @@
     <node id="root">
       <children>
 				<node id="CharacterCreationPreset"> F
-          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="1"/>
           <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
           <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
@@ -17,7 +17,7 @@
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
 				<node id="CharacterCreationPreset"> M
-          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="0"/>
           <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
           <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
