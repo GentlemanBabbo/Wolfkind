@@ -179,7 +179,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="67429690-cf77-4f87-8d2b-7697e8107eac" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="Locust_M_NKD_Body" />
+					<attribute id="Name" type="LSString" value="LOCUST_M_NKD_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -187,9 +187,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="e80f5bba-dae0-fdea-1874-ba11c52906c3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/Locust_M_NKD_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/LOCUST_M_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/Locust_M_NKD_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/LOCUST_M_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -200,7 +200,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
 							<attribute id="MaterialID" type="FixedString" value="e633b7a1-dc5d-45b6-a7f7-1e6f13459413" />
-							<attribute id="ObjectID" type="FixedString" value="Locust_M_NKD_Body.1_LOC_M_NKD_Body.0" />
+							<attribute id="ObjectID" type="FixedString" value="LOCUST_M_NKD_Body.1_LOC_M_NKD_Body.0" />
 						</node>
 					</children>
 				</node>
