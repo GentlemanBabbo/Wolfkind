@@ -6823,30 +6823,72 @@
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
 					<attribute id="ID" type="FixedString" value="445f2100-b271-4f98-bec4-ec5f74d79892" /> Generate new UUID
-					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_ABOMINATION_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
 							<attribute id="ID" type="FixedString" value="54ecc115-2c3a-492f-933d-7d674c05df58" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
 							<attribute id="ID" type="FixedString" value="1eeb48e7-3863-42fc-a42d-780bbc10850d" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
 							<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="8f1f209a-dd37-4531-b1ee-5e81c1d169cc" />
+							<attribute id="ParameterName" type="FixedString" value="SkinGradientHorn_MSK" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.1686275 0.1372549 0.1137255" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinColor" />
+							<attribute id="Value" type="fvec3" value="0.1686275 0.1372549 0.1137255" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.09411765 0.07058824 0.05490196" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinTipColor" />
+							<attribute id="Value" type="fvec3" value="0.09411765 0.07058824 0.05490196" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.5699794 0.1131871 0.1007226" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="SkinApproxColor" />
+							<attribute id="Value" type="fvec3" value="0.5699794 0.1131871 0.1007226" />
 						</node>
 					</children>
 				</node>
@@ -7111,8 +7153,9 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="1eeb48e7-3863-42fc-a42d-780bbc10850d" />
+					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="WRWOLF_Body_BM" />
-					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="WRWOLF_Body_BM" />
@@ -14854,7 +14897,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6181404f-fc33-9234-3c0a-3f58210507a0" />
+							<attribute id="MaterialID" type="FixedString" value="445f2100-b271-4f98-bec4-ec5f74d79892" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Body.WRWOLF_Body.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />

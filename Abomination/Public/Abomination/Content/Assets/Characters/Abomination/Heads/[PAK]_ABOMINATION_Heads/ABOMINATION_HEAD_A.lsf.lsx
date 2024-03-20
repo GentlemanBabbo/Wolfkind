@@ -2313,6 +2313,78 @@
 						</node>
 					</children>
 				</node>
+				<node id="Resource"> 
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
+					<attribute id="ID" type="FixedString" value="f450948a-3fbf-4183-96fc-ec9c7b830488" /> Generate new UUID
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="COLORABLE_ABOMINATION_MAT_Head" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="64c47265-34b2-4441-b54e-8b6245d649ba" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="572724e1-b106-4a04-9669-2937b181946f" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="8f1f209a-dd37-4531-b1ee-5e81c1d169cc" />
+							<attribute id="ParameterName" type="FixedString" value="SkinGradientHorn_MSK" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.1686275 0.1372549 0.1137255" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinColor" />
+							<attribute id="Value" type="fvec3" value="0.1686275 0.1372549 0.1137255" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.09411765 0.07058824 0.05490196" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinTipColor" />
+							<attribute id="Value" type="fvec3" value="0.09411765 0.07058824 0.05490196" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.5699794 0.1131871 0.1007226" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="SkinApproxColor" />
+							<attribute id="Value" type="fvec3" value="0.5699794 0.1131871 0.1007226" />
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
@@ -2322,53 +2394,43 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
-					<attribute id="Name" type="LSString" value="StoneBaseColor" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneBaseColor.DDS" />
+					<attribute id="ID" type="FixedString" value="572724e1-b106-4a04-9669-2937b181946f" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Werewolf_Head_BM" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/Werewolf_Head_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneBaseColor" />
+					<attribute id="Template" type="FixedString" value="Werewolf_Head_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="f1484a56-2d3a-4d26-b071-4cd622eb0295" />
-					<attribute id="Name" type="LSString" value="StoneDisplacement" />
+					<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
+					<attribute id="Name" type="LSString" value="WRWOLF_Body_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneDisplacement.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneDisplacement" />
+					<attribute id="Template" type="FixedString" value="WRWOLF_Body_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="e720db6b-e0ff-4cd4-b4a7-81242c64335b" />
-					<attribute id="Name" type="LSString" value="StoneNM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneNM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneNM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="d9cad827-b07e-4ed0-a876-031fb4069b32" />
-					<attribute id="Name" type="LSString" value="StonePM" />
+					<attribute id="ID" type="FixedString" value="64c47265-34b2-4441-b54e-8b6245d649ba" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Werewolf_Head_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StonePM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/Werewolf_Head_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StonePM" />
+					<attribute id="Template" type="FixedString" value="Werewolf_Head_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
 				</node>
 			</children>
 		</node>
@@ -2443,7 +2505,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f24c6c0c-f398-0497-3442-f92c56cde020" />
+							<attribute id="MaterialID" type="FixedString" value="f450948a-3fbf-4183-96fc-ec9c7b830488" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_Head_A.1WRWOLF_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
