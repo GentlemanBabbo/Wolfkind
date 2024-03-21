@@ -10,7 +10,7 @@
 					<attribute id="ID" type="FixedString" value="e633b7a1-dc5d-45b6-a7f7-1e6f13459413" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_HBaron_Skin_Body" />
-                    <attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE_VertCut.lsf" />
+                    <attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Effects/Cinematic/Trips_Cinematic_CHAR_SSS_Karlach_Fire_01.lsf" />
 					<children>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.7" />
@@ -212,7 +212,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="7aa348d7-dc8d-5ae5-c2d1-e9055abb819b" />
+							<attribute id="MaterialID" type="FixedString" value="e633b7a1-dc5d-45b6-a7f7-1e6f13459413" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Body.BaronBody.0" />
 						</node>
 					</children>
