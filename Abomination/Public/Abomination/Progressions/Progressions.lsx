@@ -50,7 +50,7 @@
                   <attribute id="Selectors" type="LSString" value="AddSpells(4d519463-7eb5-4205-938d-7c2fad76c65a)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a19ff33-6668-47b4-943b-6d713b16253f" /> Always use this one for races.lsx, says this progression node is for Sub Race
-                  <attribute id="UUID" type="guid" value="69856490-5050-4958-90df-197252a92f6" />  this one must be unique
+                  <attribute id="UUID" type="guid" value="ac3c816a-b37e-458a-8aef-207985e16c18" />  this one must be unique
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
@@ -70,7 +70,7 @@
                   <attribute id="Selectors" type="LSString" value="AddSpells(49ef9bcd-4400-459d-825d-353cf40a0890)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a31d2a4-c552-432d-b3f5-ce69ff65d3aa" /> Always use this one for races.lsx, says this progression node is for Sub Race
-                  <attribute id="UUID" type="guid" value="66c102f7-c910-4a11-8df6-2f81df033f95" />  this one must be unique
+                  <attribute id="UUID" type="guid" value="11709f8d-623e-4769-bbeb-8bf1d718fb9b" />  this one must be unique
           </node>
       </children>
     </node>
