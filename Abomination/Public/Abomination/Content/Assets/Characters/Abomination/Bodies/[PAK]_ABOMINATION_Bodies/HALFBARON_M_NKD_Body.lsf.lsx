@@ -212,7 +212,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="e633b7a1-dc5d-45b6-a7f7-1e6f13459413" />
+							<attribute id="MaterialID" type="FixedString" value="7aa348d7-dc8d-5ae5-c2d1-e9055abb819b" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Body.BaronBody.0" />
 						</node>
 					</children>
