@@ -4,9 +4,13 @@
     <region id="PassiveLists">
         <node id="root">
             <children>
-                <node id="PassiveList">
+                <node id="PassiveList"> Chimera
                     <attribute id="Passives" type="LSString" value="ImmutableForm,FelineFall,SuperiorDarkvision,Passive_Ripper"/> the passive list
                     <attribute id="UUID" type="guid" value="196a724a-addb-43ee-8c8e-ecff81d23400"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList"> Baron
+                    <attribute id="Passives" type="LSString" value="Devil_Horns,Rush_Mutilate,RecklessGore,DeathWail"/> the passive list
+                    <attribute id="UUID" type="guid" value="b7db2b7f-e7e2-4d7e-b426-323ee94b2b15"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
