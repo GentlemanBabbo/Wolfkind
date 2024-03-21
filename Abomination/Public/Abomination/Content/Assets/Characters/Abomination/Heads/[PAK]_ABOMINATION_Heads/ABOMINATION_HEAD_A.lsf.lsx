@@ -1571,6 +1571,51 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="f450948a-3fbf-4183-96fc-ec9c7b830488" />
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="ABOMINATION_MS_NKD_COLORABLE_SKIN" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
+					<children>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="54ecc115-2c3a-492f-933d-7d674c05df58" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="ebc530a6-7af3-4f0e-aa49-9e55c5b218c0" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="0a7d8067-c54e-436b-8edd-8a54bd55270d" />
+							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="74c4fd57-6680-42b3-b6cc-2a68f4e98c3e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Abomination_MS_Head_A" />
@@ -2315,7 +2360,7 @@
 				</node>
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
-					<attribute id="ID" type="FixedString" value="f450948a-3fbf-4183-96fc-ec9c7b830488" /> Generate new UUID
+					<attribute id="ID" type="FixedString" value="863087bd-d8b1-40ed-922e-5a3dc27bc254" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_ABOMINATION_MAT_Head" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
