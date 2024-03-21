@@ -2332,28 +2332,28 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
-							<attribute id="ID" type="FixedString" value="64c47265-34b2-4441-b54e-8b6245d649ba" />
+							<attribute id="ID" type="FixedString" value="61538653-e3b9-4bdc-b55d-fdcee1cace7e" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
-							<attribute id="ID" type="FixedString" value="572724e1-b106-4a04-9669-2937b181946f" />
+							<attribute id="ID" type="FixedString" value="a4db0263-3e89-4513-ba26-b4ebb6ad3919" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
-							<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
+							<attribute id="ID" type="FixedString" value="a25c68cc-dc4b-4af5-98d0-5590836e9371" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="" />
-							<attribute id="ID" type="FixedString" value="8f1f209a-dd37-4531-b1ee-5e81c1d169cc" />
+							<attribute id="ID" type="FixedString" value="fd1ea0d5-61e1-498d-8c12-5363a2f59046" />
 							<attribute id="ParameterName" type="FixedString" value="SkinGradientHorn_MSK" />
 						</node>
 						<node id="Vector3Parameters">
@@ -2394,13 +2394,13 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="572724e1-b106-4a04-9669-2937b181946f" />
+					<attribute id="ID" type="FixedString" value="a4db0263-3e89-4513-ba26-b4ebb6ad3919" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Werewolf_Head_BM" />
+					<attribute id="Name" type="LSString" value="baron_head_BM" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/Werewolf_Head_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/baron_head_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Werewolf_Head_BM" />
+					<attribute id="Template" type="FixedString" value="baron_head_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -2408,12 +2408,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="10aea790-3b5e-4a14-9618-0f898f3ef51c" />
-					<attribute id="Name" type="LSString" value="WRWOLF_Body_PM" />
+					<attribute id="ID" type="FixedString" value="a25c68cc-dc4b-4af5-98d0-5590836e9371" />
+					<attribute id="Name" type="LSString" value="baron_head_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/WRWOLF_Body_PM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/baron_head_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="WRWOLF_Body_PM" />
+					<attribute id="Template" type="FixedString" value="baron_head_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -2421,13 +2421,27 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="64c47265-34b2-4441-b54e-8b6245d649ba" />
+					<attribute id="ID" type="FixedString" value="61538653-e3b9-4bdc-b55d-fdcee1cace7e" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Werewolf_Head_NM" />
+					<attribute id="Name" type="LSString" value="baron_head_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/Werewolf_Head_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/baron_head_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Werewolf_Head_NM" />
+					<attribute id="Template" type="FixedString" value="baron_head_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="fd1ea0d5-61e1-498d-8c12-5363a2f59046" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="baron_head_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/baron_head_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="baron_head_MSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
@@ -2505,7 +2519,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="25f88328-d8c4-cba3-19e3-4d163fa5db5c" />
+							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.1HUM_MS_NKD_Head_Sarevok_Mesh.0" />
 						</node>
 						<node id="Objects">
