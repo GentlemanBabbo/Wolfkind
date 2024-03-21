@@ -2505,12 +2505,12 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="8f7d7474-33f0-4432-b6b4-f04bd05d4c39" />
+							<attribute id="MaterialID" type="FixedString" value="25f88328-d8c4-cba3-19e3-4d163fa5db5c" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.1HUM_MS_NKD_Head_Sarevok_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="17c677a9-49a5-54d1-9502-4903b2e0a872" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.2HUM_MS_NKD_Head_Sarevok_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
