@@ -34,7 +34,7 @@
                         <attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Horns/ABOMINATION_HORN_A.GR2" />
                         <!-- ^ Make sure this matches your folder structure. -->
                         <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                        <attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Autosnapping_Hair/ABOMINATION_HORN_A.Dummy_Root.0" />
+                        <attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Horns/ABOMINATION_HORN_A.Dummy_Root.0" />
                         <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
                         <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
                         <children>
