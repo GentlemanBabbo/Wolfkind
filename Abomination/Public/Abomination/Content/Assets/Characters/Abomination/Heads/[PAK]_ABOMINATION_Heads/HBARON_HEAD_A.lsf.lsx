@@ -2519,7 +2519,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
+							<attribute id="MaterialID" type="FixedString" value="7aa348d7-dc8d-5ae5-c2d1-e9055abb819b" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.1HUM_MS_NKD_Head_Sarevok_Mesh.0" />
 						</node>
 						<node id="Objects">
