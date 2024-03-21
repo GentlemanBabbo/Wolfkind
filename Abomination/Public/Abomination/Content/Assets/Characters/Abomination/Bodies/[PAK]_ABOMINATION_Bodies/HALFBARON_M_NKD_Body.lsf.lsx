@@ -306,7 +306,7 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>						
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="c70c1f79-1fa6-4964-77a9-10047fb7dcfe" />HRC_M_Base
+							<attribute id="Object" type="FixedString" value="c70c1f79-1fa6-4964-77a9-10047fb7dcfe" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="da9d3958-b0ff-644f-72d8-627d7767fd27" />
