@@ -16,7 +16,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Half-Baron lvl1"/> 
-                    <attribute id="Spells" type="LSString" value="Spell_Spike;Spell_Mutilate;Jump_Baron"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value="Spell_Spike"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="49ef9bcd-4400-459d-825d-353cf40a0890"/> the UUID, needs to be unique
                 </node>
             </children>
