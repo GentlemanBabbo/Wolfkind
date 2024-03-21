@@ -107,7 +107,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f3d1db73-00e9-427e-950c-3b64319a7c7c" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_Half_Baron" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -133,7 +133,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="c4e74b0b-adc4-4c64-9e82-5cc6ec2e1f31" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Half_Baron" />
 
 					<children>
 						<node id="Tags">
