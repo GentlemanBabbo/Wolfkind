@@ -66,7 +66,7 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="HalfBaron" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Devil_Horns;Rush_Mutilate;RecklessGore;DeathWail" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Devil_Horns" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(49ef9bcd-4400-459d-825d-353cf40a0890)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a31d2a4-c552-432d-b3f5-ce69ff65d3aa" /> Always use this one for races.lsx, says this progression node is for Sub Race
