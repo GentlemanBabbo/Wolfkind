@@ -2318,7 +2318,7 @@
 					<attribute id="ID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_BARON_MAT_Head" />
-					<attribute id="SourceFile" type="LSString" value="Materials/Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.5" />
