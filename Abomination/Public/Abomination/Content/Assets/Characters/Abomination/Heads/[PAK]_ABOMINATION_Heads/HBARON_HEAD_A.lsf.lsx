@@ -2520,7 +2520,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.1HUM_MS_NKD_Head_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.1HUM_MS_NKD_Head_Sarevok_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -2534,8 +2534,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="09c6864c-f442-45dd-9545-9992ec4e9438" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.3HUM_MS_NKD_Head_Feathers.3" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.4HUM_MS_NKD_Head_Sarevok_Eyeshadow_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -2547,11 +2547,7 @@
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
 							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.6HUM_MS_NKD_Head_Sarevok_Eyelashes_Mesh.5" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.4HUM_MS_NKD_Head_Sarevok_Eyeshadow_Mesh.6" />
-						</node>
+
 					</children>
 				</node>
 			</children>
