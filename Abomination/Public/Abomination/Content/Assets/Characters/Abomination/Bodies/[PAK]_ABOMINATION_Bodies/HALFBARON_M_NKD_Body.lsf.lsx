@@ -236,11 +236,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="b4e35b8b-4492-41a0-a635-347dcef3f21e" />
-					<attribute id="Name" type="LSString" value="ScourgerBM" />
+					<attribute id="Name" type="LSString" value="baron_torso_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ScourgerBM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/baron_torso_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="ScourgerBM" />
+					<attribute id="Template" type="FixedString" value="baron_torso_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -249,11 +249,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="4765efde-ce18-4bab-b4fc-c7955410dc57" />
-					<attribute id="Name" type="LSString" value="ScourgerNM" />
+					<attribute id="Name" type="LSString" value="baron_torso_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ScourgerNM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/baron_torso_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="ScourgerNM" />
+					<attribute id="Template" type="FixedString" value="baron_torso_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -262,11 +262,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="661989d8-e8d9-46f7-ad73-52de99abad4c" />
-					<attribute id="Name" type="LSString" value="ScourgerPM" />
+					<attribute id="Name" type="LSString" value="baron_torso_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/ScourgerPM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/baron_torso_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="ScourgerPM" />
+					<attribute id="Template" type="FixedString" value="baron_torso_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
