@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Abomination" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="AddSpells(4d519463-7eb5-4205-938d-7c2fad76c65a);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2)" />see below for explanation
                   <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)-->
                   This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
                   <!--AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b)-->
@@ -47,7 +47,7 @@
                   <attribute id="Name" type="LSString" value="Chimera" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="FelineFall" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(4d519463-7eb5-4205-938d-7c2fad76c65a)" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a19ff33-6668-47b4-943b-6d713b16253f" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="ac3c816a-b37e-458a-8aef-207985e16c18" />  this one must be unique
@@ -68,6 +68,26 @@
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passive_Hells_Resistance_Fire" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(49ef9bcd-4400-459d-825d-353cf40a0890)" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="2a31d2a4-c552-432d-b3f5-ce69ff65d3aa" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="11709f8d-623e-4769-bbeb-8bf1d718fb9b" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="CyberDemon" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Ironlung" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(7bd65fcb-cd49-4845-9b24-993f8540a372)" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="2a31d2a4-c552-432d-b3f5-ce69ff65d3aa" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="11709f8d-623e-4769-bbeb-8bf1d718fb9b" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="CyberDemon" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_High_Voltage" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(4c37a6d5-459f-4fd9-bb95-a199101cd9ec)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a31d2a4-c552-432d-b3f5-ce69ff65d3aa" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="11709f8d-623e-4769-bbeb-8bf1d718fb9b" />  this one must be unique
