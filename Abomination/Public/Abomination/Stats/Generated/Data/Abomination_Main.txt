@@ -47,7 +47,7 @@ data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and
 data "StatsFunctors" "IF(IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(1d8, MainMeleeWeaponDamageType);IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d8, MainRangedWeaponDamageType);IF(IsAttackType(AttackType.MeleeOffHandWeaponAttack)):DealDamage(1d8, OffhandMeleeWeaponDamageType);IF(IsAttackType(AttackType.RangedOffHandWeaponAttack)):DealDamage(1d8, OffhandRangedWeaponDamageType);IF(IsAttackType(Attacktype.MeleeUnarmedAttack):DealDamage(max(1,1d8+UnarmedMeleeAbilityModifier),Slashing)"
 
 
-<!--------------------- Chimera Spells --------------------->
+<!--------------------- Abomination Spells --------------------->
 
 new entry "Zone_BreathWeapon_Fire_Cone"
 type "SpellData"
@@ -85,16 +85,17 @@ data "TargetSound" ""
 data "CastEffect" "2809ed9f-16d1-4edc-b2cf-b1bc15f30170"
 data "HitEffect" "b20746df-e3ae-4710-9100-60e0554cce14"
 
-new entry "Target_Claws"
+new entry "Target_Rip"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_UnarmedAttack"
-data "SpellSuccess" "DealDamage(max(1,2d4+UnarmedMeleeAbilityModifier),Slashing)"
+data "SpellProperties" "IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1);ApplyStatus(SELF,BOOST_RIPANDTEAR,100,1)"
+data "SpellSuccess" "DealDamage(max(1,LevelMapValue(RIPTEAR)+UnarmedMeleeAbilityModifier),Slashing)"
 data "TargetConditions" "not Self() and not Dead()"
 data "Icon" "GenericIcon_DamageType_Physical"
 data "DisplayName" "h39829445g2dc1g47f7g95a7ga65d84e8c81d;1"
 data "Description" "h361b0b7fg98cdg4040g84bcg818772c52383;2"
-data "TooltipDamageList" "DealDamage(2d4+UnarmedMeleeAbilityModifier,Slashing)"
+data "TooltipDamageList" "DealDamage(LevelMapValue(RIPTEAR)+UnarmedMeleeAbilityModifier),Slashing)"
 data "PrepareSound" "CrSpell_Prepare_Claw"
 data "CastSound" "CrSpell_Cast_Claw"
 data "TargetSound" "CrSpell_Impact_Claw"
@@ -104,6 +105,42 @@ data "SpellAnimation" "8b8bb757-21ce-4e02-a2f3-97d55cf2f90b,,;6606c30b-be1c-4f17
 data "SpellFlags" "IsMelee;IsEnemySpell;IsHarmful"
 data "SpellAnimationIntentType" "Aggressive"
 data "Sheathing" "DontChange"
+
+new entry "Target_Tear"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_UnarmedAttack"
+data "SpellProperties" "IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1);RemoveStatus(SELF,BOOST_RIPANDTEAR)"
+data "SpellSuccess" "DealDamage(max(1,LevelMapValue(RIPTEAR)+UnarmedMeleeAbilityModifier),Slashing)"
+data "TargetConditions" "not Self() and not Dead()"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "DisplayName" "h39829445g2dc1g47f7g95a7ga65d84e8c81d;1"
+data "Description" "h361b0b7fg98cdg4040g84bcg818772c52383;2"
+data "TooltipDamageList" "DealDamage(LevelMapValue(RIPTEAR)+UnarmedMeleeAbilityModifier),Slashing)"
+data "PrepareSound" "CrSpell_Prepare_Claw"
+data "CastSound" "CrSpell_Cast_Claw"
+data "TargetSound" "CrSpell_Impact_Claw"
+data "CastTextEvent" "Cast"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellAnimation" "8b8bb757-21ce-4e02-a2f3-97d55cf2f90b,,;6606c30b-be1c-4f17-ae6b-1a591c80b18c,,;f4ac302b-1569-404f-bd52-1fe443e265df,,;e8a5c57f-855b-4227-acaa-11e8ce8d7d64,,;7bb52cd4-0b1c-4926-9165-fa92b75876a3,,;2b81c18b-9698-4262-a623-932c2bb1296d,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,,"
+data "SpellFlags" "IsMelee;IsEnemySpell;IsHarmful"
+data "SpellAnimationIntentType" "Aggressive"
+data "Sheathing" "DontChange"
+
+
+<!----Abomination Boosts---->
+
+new entry "BOOST_RIPANDTEAR"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ";1"
+data "Description" ";1"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "StackId" "BOOST_RIPANDTEAR"
+data "TickType" "StartTurn"
+data "Boosts" "UnlockSpell(Target_UnarmedStrike_Monk)"
+
+<!----Chimera Spell--->
 
 new entry "Shout_Lion_Roar"
 type "SpellData"
@@ -172,7 +209,7 @@ data "SpellSchool" "Transmutation"
 data "TargetRadius" "12"
 data "DeathType" "Disintegrate"
 data "SpellRoll" "not SavingThrow(Ability.Dexterity, SourceSpellDC())"
-data "SpellSuccess" "DealDamage(1d4,Force,Magical)"
+data "SpellSuccess" "DealDamage(LevelMapValue(MGDamage),Force,Magical)"
 data "TargetConditions" "not Self() and not Dead()"
 data "ProjectileCount" "1"
 data "AmountOfTargets" "4"
