@@ -34,8 +34,6 @@ data "StepsType" "Hooves"
 
 <!--------------------- Abomination Passives --------------------->
 
-
-
 new entry "Passive_Ripper"
 type "PassiveData"
 data "DisplayName" "hc621643cgfaa7g4a45ga874gb81ad9597bd3;2"
@@ -48,29 +46,6 @@ data "StatsFunctors" "IF(IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(
 
 
 <!--------------------- Abomination Spells --------------------->
-
-new entry "Zone_BreathWeapon_Fire_Cone"
-type "SpellData"
-data "SpellType" "Zone"
-using "Zone_BreathWeapon_Acid"
-data "SpellProperties" "GROUND:SurfaceChange(Ignite);GROUND:SurfaceChange(Melt);TARGET:IF(Item()):ApplyStatus(BURNING,100,2)"
-data "SpellSuccess" "DealDamage(LevelMapValue(BreathWeapon),Fire,Magical)"
-data "SpellFail" "DealDamage(LevelMapValue(BreathWeapon)/2, Fire,Magical)"
-data "Icon" "Action_Dragonborn_BreathWeapon_FireCone"
-data "DisplayName" "h725acbf8ga49ag4d70g9775g638c5a1094a0;2"
-data "Description" "hb546ed6dgb12ag488fg8888g2ca555c4d345;1"
-data "TooltipDamageList" "DealDamage(LevelMapValue(BreathWeapon),Fire)"
-data "PrepareSound" "Spell_Prepare_Damage_BreathWeapon_Fire"
-data "PrepareLoopSound" "Spell_Loop_Damage_BreathWeapon_Fire"
-data "CastSound" "Spell_Cast_Damage_BreathWeapon_Fire"
-data "Shape" "Cone"
-data "Base" ""
-data "Angle" "60"
-data "UseCosts" "ActionPoint:1"
-data "PrepareEffect" "a6389f1d-b548-41f0-b236-62172c1dab04"
-data "CastEffect" "855a50f5-6ef5-4a32-a8e1-a83273176c9a"
-data "TargetEffect" "53412dd1-8066-4860-a2ae-b27e77bfdab5"
-data "DamageType" "Fire"
 
 new entry "Target_Multiattack_Chimera"
 type "SpellData"
@@ -141,6 +116,28 @@ data "TickType" "StartTurn"
 data "Boosts" "UnlockSpell(Target_Tear)"
 
 <!----Chimera Spell--->
+new entry "Zone_BreathWeapon_Fire_Cone"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_BreathWeapon_Acid"
+data "SpellProperties" "GROUND:SurfaceChange(Ignite);GROUND:SurfaceChange(Melt);TARGET:IF(Item()):ApplyStatus(BURNING,100,2)"
+data "SpellSuccess" "DealDamage(LevelMapValue(BreathWeapon),Fire,Magical)"
+data "SpellFail" "DealDamage(LevelMapValue(BreathWeapon)/2, Fire,Magical)"
+data "Icon" "Action_Dragonborn_BreathWeapon_FireCone"
+data "DisplayName" "h725acbf8ga49ag4d70g9775g638c5a1094a0;2"
+data "Description" "hb546ed6dgb12ag488fg8888g2ca555c4d345;1"
+data "TooltipDamageList" "DealDamage(LevelMapValue(BreathWeapon),Fire)"
+data "PrepareSound" "Spell_Prepare_Damage_BreathWeapon_Fire"
+data "PrepareLoopSound" "Spell_Loop_Damage_BreathWeapon_Fire"
+data "CastSound" "Spell_Cast_Damage_BreathWeapon_Fire"
+data "Shape" "Cone"
+data "Base" ""
+data "Angle" "60"
+data "UseCosts" "ActionPoint:1"
+data "PrepareEffect" "a6389f1d-b548-41f0-b236-62172c1dab04"
+data "CastEffect" "855a50f5-6ef5-4a32-a8e1-a83273176c9a"
+data "TargetEffect" "53412dd1-8066-4860-a2ae-b27e77bfdab5"
+data "DamageType" "Fire"
 
 new entry "Shout_Lion_Roar"
 type "SpellData"
