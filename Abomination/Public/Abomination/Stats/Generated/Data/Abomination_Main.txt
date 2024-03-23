@@ -138,7 +138,7 @@ data "Description" ";1"
 data "Icon" "GenericIcon_DamageType_Physical"
 data "StackId" "BOOST_RIPANDTEAR"
 data "TickType" "StartTurn"
-data "Boosts" "UnlockSpell(Target_UnarmedStrike_Monk)"
+data "Boosts" "UnlockSpell(Target_Tear)"
 
 <!----Chimera Spell--->
 
