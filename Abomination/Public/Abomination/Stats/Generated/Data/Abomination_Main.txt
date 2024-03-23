@@ -101,7 +101,7 @@ data "TargetSound" "CrSpell_Impact_Claw"
 data "CastTextEvent" "Cast"
 data "UseCosts" "ActionPoint:1"
 data "SpellAnimation" "8b8bb757-21ce-4e02-a2f3-97d55cf2f90b,,;6606c30b-be1c-4f17-ae6b-1a591c80b18c,,;f4ac302b-1569-404f-bd52-1fe443e265df,,;e8a5c57f-855b-4227-acaa-11e8ce8d7d64,,;7bb52cd4-0b1c-4926-9165-fa92b75876a3,,;2b81c18b-9698-4262-a623-932c2bb1296d,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,,"
-data "SpellFlags" "IsAttack;IsMelee;IsEnemySpell;IsHarmful"
+data "SpellFlags" "IsMelee;IsEnemySpell;IsHarmful"
 data "SpellAnimationIntentType" "Aggressive"
 data "Sheathing" "DontChange"
 
