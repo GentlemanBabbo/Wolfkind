@@ -6,7 +6,7 @@
             <children>               
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Claws"/> 
-                    <attribute id="Spells" type="LSString" value="Target_Rip;Target_Tear"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value="Target_Rip"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="4d519463-7eb5-4205-938d-7c2fad76c65a"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
