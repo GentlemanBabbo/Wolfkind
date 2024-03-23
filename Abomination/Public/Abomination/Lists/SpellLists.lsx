@@ -25,11 +25,6 @@
                     <attribute id="UUID" type="guid" value="49ef9bcd-4400-459d-825d-353cf40a0890"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Cyber-Demon lvl1"/> 
-                    <attribute id="Spells" type="LSString" value="Projectile_MachineGun"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="49ef9bcd-4400-459d-825d-353cf40a0890"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Cyber-Demon lvl3"/> 
                     <attribute id="Spells" type="LSString" value="Projectile_Killswitch"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="7bd65fcb-cd49-4845-9b24-993f8540a372"/> the UUID, needs to be unique
