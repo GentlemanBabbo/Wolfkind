@@ -841,111 +841,98 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>						
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-db8a-3e85c390904c" />
-							<attribute id="PairElement2" type="FixedString" value="2581e116-5b2f-85fe-d440-0e28dd035d9b" />
+							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
+							<attribute id="PairElement2" type="FixedString" value="7f940513-1d1c-0698-a640-d2ab19247c4c" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-2ca6-cc908b136fd7" />
-							<attribute id="PairElement2" type="FixedString" value="5331b973-4822-8ac4-9107-eb62a736d34a" />
+							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
+							<attribute id="PairElement2" type="FixedString" value="a2dc8d82-3c4e-2440-a284-ac2bc01e1ae7" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-2ca6-cc908b136fd7" />
-							<attribute id="PairElement2" type="FixedString" value="9630fd20-196f-0939-55fb-251a02fa358a" />
+							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
+							<attribute id="PairElement2" type="FixedString" value="42c92835-92e0-6126-4161-b63ce6ae1147" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-d7e5068d99a3" />
+							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
 							<attribute id="PairElement2" type="FixedString" value="2d742d0b-4495-d21e-dd32-e59f57c79596" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="114e7aee-d1d4-4371-908d-208a5980af2f" />
+							<attribute id="PairElement1" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf" />
 							<attribute id="PairElement2" type="FixedString" value="a4d69b53-bcdb-4d80-b535-0963aa73ed4e" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="457d0a6e-9da8-4f95-25a2-38180e2fb594" />
+							<attribute id="PairElement1" type="guid" value="457d0a6e-9da8-4f95-a225-18382f0e94b5" />
 							<attribute id="PairElement2" type="FixedString" value="a32ae1ef-eca8-e0e5-af5d-86812ee083a3" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="721dfac3-92d4-41f5-73b7-07b7862a2f23" />
+							<attribute id="PairElement1" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f" />
 							<attribute id="PairElement2" type="FixedString" value="cb997234-2ada-a5d4-3700-99f8ecc9968f" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="ff4d9497-023c-434a-14bd-fc827e361c99" />
+							<attribute id="PairElement1" type="guid" value="ff4d9497-023c-434a-bd14-82fc367e991c" />
 							<attribute id="PairElement2" type="FixedString" value="d96e16a7-dbe1-5993-5f30-c3a095220c29" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="36be18ba-23db-4dff-a6bf-10aee45c4431" />
+							<attribute id="PairElement1" type="guid" value="36be18ba-23db-4dff-bfa6-ae105ce43144" />
 							<attribute id="PairElement2" type="FixedString" value="ac4ecdcf-1d6b-b4c1-ef95-7a6000eb7e73" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="e8b1eab0-ef11-40a2-0b8a-e8ce62d02abf" />
+							<attribute id="PairElement1" type="guid" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a" />
 							<attribute id="PairElement2" type="FixedString" value="2d065b9d-e5fd-edde-18dc-ac59e4f1f2ff" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="784001e2-c96d-4153-b6be-db2a5aef92bc" />
+							<attribute id="PairElement1" type="guid" value="784001e2-c96d-4153-beb6-2adbef5abc92" />
 							<attribute id="PairElement2" type="FixedString" value="d360089d-5854-1552-f14b-d97e19c4c399" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="b4225a4b-4bbe-4d97-3c9e-1947d1db7c48" />
+							<attribute id="PairElement1" type="guid" value="b4225a4b-4bbe-4d97-9e3c-4719dbd1487c" />
 							<attribute id="PairElement2" type="FixedString" value="56cd2f2c-5b50-b609-95d2-b47744d37293" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d" />
+							<attribute id="PairElement1" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
 							<attribute id="PairElement2" type="FixedString" value="1587f3b2-0f6a-e986-2a64-90f5029b481a" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
-							<attribute id="PairElement2" type="FixedString" value="51f627e9-171b-dfcc-3e51-f353bf23431c" />
-							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
-						</node>
-						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-d7e5068d99a3" />
+							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
 							<attribute id="PairElement2" type="FixedString" value="34e469eb-eb33-100f-4c4c-0f56aefb8888" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-db8a-3e85c390904c" />
-							<attribute id="PairElement2" type="FixedString" value="d83bc2dd-ee74-3571-eae2-709666a66674" />
+							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
+							<attribute id="PairElement2" type="FixedString" value="6a4762ee-e033-5500-5e26-9d01401ed906" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="aafbe780-d237-416e-059d-30e0c970eedb" />
-							<attribute id="PairElement2" type="FixedString" value="c912b780-e2ab-aa86-e845-c978e35ffe2e" />
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="51f627e9-171b-dfcc-3e51-f353bf23431c" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="f348c2e5-fe09-4a24-499e-d22f86a0c417" />
-							<attribute id="PairElement2" type="FixedString" value="f08034ed-6fa9-6e80-4eab-b8a7e7205819" />
+							<attribute id="PairElement1" type="guid" value="aafbe780-d237-416e-9d05-e03070c9dbee" />
+							<attribute id="PairElement2" type="FixedString" value="3dd0779a-f0fb-f6e4-af58-49fefc314a26" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="f9448523-02e4-4117-37b4-76b1391e87f4" />
+							<attribute id="PairElement1" type="guid" value="f9448523-02e4-4117-b437-b1761e39f487" />
 							<attribute id="PairElement2" type="FixedString" value="ae996c12-9f93-655f-6f04-f7bec8cef6eb" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
-						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="51fed831-4aaf-42b6-3ab9-89588dfb45f3" />
-							<attribute id="PairElement2" type="FixedString" value="7b0b63d7-aeb3-f6b7-838e-2f55b60bb1a3" />
-							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
-						</node>						
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="c70c1f79-1fa6-4964-77a9-10047fb7dcfe" />
+							<attribute id="Object" type="FixedString" value="c5444852-1895-0e73-37c5-d0a4eb1c0219" />
 						</node>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="da9d3958-b0ff-644f-72d8-627d7767fd27" />
-						</node>						
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="3c5ac745-11bb-4489-a636-ef21e3e4f424" />
 						</node>
@@ -953,10 +940,7 @@
 							<attribute id="Object" type="FixedString" value="da29fce1-056a-4f86-b110-d61679c21238" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="2a28e47a-9981-df20-3845-5e83bd883110" />
-						</node>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="45291227-c786-9570-fe5f-d4a9e2640390" />
+							<attribute id="Object" type="FixedString" value="11742d82-86c8-a938-e205-c8824d1d7a73" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="125eb6fc-c0e5-e45e-bf1a-4bbb04be1ee0" />
@@ -969,7 +953,7 @@
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="324bfb20-54e4-01c5-8a11-849c3352a6a3" />
-						</node>				
+						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
