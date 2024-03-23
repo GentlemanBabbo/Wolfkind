@@ -371,9 +371,17 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="502f4030-1418-4b98-93d1-fbf2c2ec1a3c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="Colorable_CYD_Skin_Tubes" />
-                    			<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
+					<attribute id="Name" type="LSString" value="CYD_Skin_Tubes" />
+                    <attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE_GM.lsf" />
 					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="GlowMultiplier" />
+							<attribute id="Value" type="float" value="1" />
+						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.7" />
 							<attribute id="Enabled" type="bool" value="False" />
@@ -434,6 +442,13 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="96a455a1-dd0a-4f1d-98bb-9651b3431ed9" />
+							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ID" type="FixedString" value="0b036c4a-317a-4973-95a9-06ad23cf28b4" /> POINTS TO NORMAL MAP
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
@@ -459,22 +474,13 @@
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.1176471 0.06666667 0.04705882" />
+							<attribute id="BaseValue" type="fvec3" value="0.8512517 0.1011452 0.002585825" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
 							<attribute id="IsColor" type="bool" value="True" />
-							<attribute id="ParameterName" type="FixedString" value="DirtColor" />
-							<attribute id="Value" type="fvec3" value="0.1176471 0.06666667 0.04705882" />
-						</node>
-						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.1294118 0.007843138 0.003921569" />
-							<attribute id="Enabled" type="bool" value="False" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
-							<attribute id="IsColor" type="bool" value="True" />
-							<attribute id="ParameterName" type="FixedString" value="Blood_Color" />
-							<attribute id="Value" type="fvec3" value="0.1294118 0.007843138 0.003921569" />
+							<attribute id="ParameterName" type="FixedString" value="GlowColor" />
+							<attribute id="Value" type="fvec3" value="1 0.75 0" />
 						</node>
 					</children>
 				</node>
@@ -786,6 +792,19 @@
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/dreadknight_hoses_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="dreadknight_hoses_PM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="96a455a1-dd0a-4f1d-98bb-9651b3431ed9" />
+					<attribute id="Name" type="LSString" value="dreadknight_hoses_GM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_M_Body/dreadknight_hoses_GM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="dreadknight_hoses_GM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
