@@ -20,17 +20,15 @@
 	<content contentuid="h7b73a5bdgf4afg4866g9e1dgc260eb3c38b2" version="1">Berserker</content>
 	<content contentuid="h1b80a5bdgf55432866g9e1rgd150eb3c38a3" version="1">Wolf-Spirit</content>
 	<content contentuid="ha23fd3e3g3d92g4fdfg856cg71dd40cdc0d9" version="1">Ram</content>
-	<content contentuid="hef6726d0gc620g4c77ga3dag9f40b64104fe" version="1">Head Spikes</content>
-	<content contentuid="h1a66e010g78e4g48b3ga619g210e9528dea7" version="1">Your horns allow you to make unarmed attacks that deal [1].</content>	
-	<content contentuid="ha09a9735g2c6ag43d0g9f5agccff6f50554a" version="1">Your power cannot be detained. Direct your horns towards a target; unarmed attacks with your horns deal [1] on hit.</content>
-	<content contentuid="hdee1cd12g2067g4601g8d02g9eccd4dd3c18" version="1">Mutilate</content>	
-	<content contentuid="hd48bfbbbg8bafg449dgaee9gb4059909252e" version="1">Immediately after &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dashing&lt;/LSTag&gt; on your turn and &lt;LSTag Tooltip="MovementSpeed"&gt;moving&lt;/LSTag&gt; at least [1], you can use your &lt;LSTag Type="Spell" Tooltip="Spell_Spike"&gt;Head Spikes&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to attack a creature.</content>
-	<content contentuid="h644510afg6a90g4009g8de5g41a6806de233" version="1">Immediately after you hit a creature with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;melee attack&lt;/LSTag&gt;, you can &lt;LSTag Type="Spell" Tooltip="Spell_Mutilate"&gt;Push&lt;/LSTag&gt; the target with your horns [1] away from you. The creature must be no more than one size larger than you.</content>	
-	<content contentuid="h2b0a9e88g57a6g456fgaca1gbfd1badf540e" version="1">You can use your bonus action to attempt to push a target with your horns.</content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h808cd66cga63fg4fc3gb2bbg1142b3f07e8b" version="1">Phaser Beam</content>
+	<content contentuid="h3a8b3280gae29g4da0gb89bg794c572e3aeb" version="1">Unleash your cybernetic capacitors upon your foes, dealing [1] per projectile fired.</content>
+	<content contentuid="h53f68b5bga3fcg49b1gb324g1319c5db1a3d" version="1">Coolant System</content>
+	<content contentuid="he56efd98g0c67g4d45g9968g4025254ff8e8" version="1">Your demonic flesh and ventilation systems allow for heat discharge. You are resistant to fire damage.</content>
+	<content contentuid="hced7872eg5b8fg4deeg8fc6gcc32326a3529" version="1">End your foes with an eletrical discharge. Strike multiple targets with the blast.</content>
+	<content contentuid="hfa5ce2cag64a7g4714g8826g71ac39347691" version="1">Ironlung</content>
+	<content contentuid="h7f6650a3g3d98g438dgaed0gf8ddd3c9bdf8" version="1">Your anatomy does not permit poison contamination. You are resistant to Poison damage and cannot be poisoned.</content>
+	<content contentuid="h821956b1gab72g4ad7g8ffagba15da4e2d70" version="1">High-Voltage</content>
+	<content contentuid="h3ec95132g9beeg4eb9g80a5g3ee218aaeeac" version="1">The energies that sustain you grant you an increase to your lightning damage outputs.</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
