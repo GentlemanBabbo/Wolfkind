@@ -13,11 +13,11 @@
 		<attribute id="Level6" type="LSString" value="1d10"/>
 		<attribute id="Level7" type="LSString" value="1d10"/>
 		<attribute id="Level8" type="LSString" value="1d10"/>
-                <attribute id="Level9" type="LSString" value="2d12"/>
-                <attribute id="Level10" type="LSString" value="2d12"/>
-        	<attribute id="Level11" type="LSString" value="2d12"/>
-                <attribute id="Level12" type="LSString" value="2d12"/>
-                <attribute id="Name" type="FixedString" value="RTHeal"/>
+                <attribute id="Level9" type="LSString" value="1d12"/>
+                <attribute id="Level10" type="LSString" value="1d12"/>
+        	<attribute id="Level11" type="LSString" value="1d12"/>
+                <attribute id="Level12" type="LSString" value="1d12"/>
+                <attribute id="Name" type="FixedString" value="RIPTEAR"/>
                 <attribute id="UUID" type="guid" value="ef1d274d-8dcb-413a-a7f8-08933ebf6892"/>
                 </node>
 		<node id="LevelMapSeries">
