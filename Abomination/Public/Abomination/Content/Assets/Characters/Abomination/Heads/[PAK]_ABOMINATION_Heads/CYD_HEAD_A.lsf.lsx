@@ -2508,7 +2508,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
 							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.2_CYD_M_NKD_Head_Sarevok_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
