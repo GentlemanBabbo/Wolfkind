@@ -2503,7 +2503,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
+							<attribute id="MaterialID" type="FixedString" value="e633b7a1-dc5d-45b6-a7f7-1e6f13459413" />
 							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_B.1_HEL_MS_NKD_Head_E_Remap_Mesh.0" />
 						</node>
 						<node id="Objects">
