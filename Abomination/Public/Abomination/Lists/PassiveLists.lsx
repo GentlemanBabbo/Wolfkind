@@ -9,7 +9,7 @@
                     <attribute id="UUID" type="guid" value="196a724a-addb-43ee-8c8e-ecff81d23400"/> the UUID, needs to be unique
                 </node>
                 <node id="PassiveList"> Baron
-                    <attribute id="Passives" type="LSString" value="Devil_Horns"/> the passive list
+                    <attribute id="Passives" type="LSString" value="Passive_Hells_Resistance_Fire,Passive_Ironlung,Passive_High_Voltage"/> the passive list
                     <attribute id="UUID" type="guid" value="b7db2b7f-e7e2-4d7e-b426-323ee94b2b15"/> the UUID, needs to be unique
                 </node>
             </children>
