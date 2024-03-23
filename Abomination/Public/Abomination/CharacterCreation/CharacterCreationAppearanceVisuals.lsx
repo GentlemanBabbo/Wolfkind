@@ -52,7 +52,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h49cda8e0g95afg4ae2ga99eg1f9c8bdb7874" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h49cda8e0g95afg4ae2ga99eg1f9c8bdb7874" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -62,18 +62,31 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
-		<!--HALFBARON Heads-->
+		<!--CyberDemon Heads-->
 				<node id="CharacterCreationAppearanceVisual"> Half-Baron1M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7b73a5bdgf4afg4866g9e1dgc260eb3c38b2" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h7b73a5bdgf4afg4866g9e1dgc260eb3c38b2" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
 					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="9dc65d47-1145-49f0-ae1b-a434315689d6"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="3baeaf60-1847-43c4-8f01-a2b13dc6344f"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Half-Baron2M - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                			<attribute id="DisplayName" type="TranslatedString" handle="h55779bb1g844eg48a1gaa92g3e73909046b4" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a1761c54-e145-4ec2-9028-a3cd730f2adb"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="e1f7ee66-4365-4d33-b0b8-7edd25db101e"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
