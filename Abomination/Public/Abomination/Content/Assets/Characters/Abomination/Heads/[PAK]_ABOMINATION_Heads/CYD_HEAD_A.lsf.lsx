@@ -1573,7 +1573,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="91b2cfb1-d219-4ccc-8d9a-cfbc153c709a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="HalfBaron_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="CYD_MS_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -2317,7 +2317,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
 					<attribute id="ID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="COLORABLE_BARON_MAT_Head" />
+					<attribute id="Name" type="LSString" value="COLORABLE_CYD_MAT_Head" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
 						<node id="ScalarParameters">
@@ -2455,7 +2455,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="14bb9e36-cff5-4fec-92fb-3811095ac61e" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="HalfBaron_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="CYD_MS_Head_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SourceFile" type="LSString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -2490,16 +2490,16 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="3baeaf60-1847-43c4-8f01-a2b13dc6344f" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HALFBARON_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="CYD_MS_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="658fd10c-b8b2-4e47-214e-959e591b6881" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/HalfBaron_M_Head.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/DK_M_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/HalfBaron_M_Head.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Head/DK_M_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2520,34 +2520,33 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.1HUM_MS_NKD_Head_Sarevok_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.1_CYD_M_NKD_Head_Sarevok_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.2HUM_MS_NKD_Head_Sarevok_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.2_CYD_M_NKD_Head_Sarevok_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.3HUM_MS_NKD_Head_Sarevok_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.3_CYD_M_NKD_Head_Sarevok_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.4HUM_MS_NKD_Head_Sarevok_Eyeshadow_Mesh.3" />
+							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.4_CYD_M_NKD_Head_Sarevok_Cyberparts.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8089f3a7-638b-1768-b6a4-43e1b0892e23" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.5HUM_MS_NKD_Head_Sarevok_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.5_CYD_M_NKD_Head_Sarevok_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="HalfBaron_M_Head.6HUM_MS_NKD_Head_Sarevok_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.6_CYD_M_NKD_Head_Sarevok_Eyeshadow_Mesh.5" />
 						</node>
-
 					</children>
 				</node>
 			</children>
