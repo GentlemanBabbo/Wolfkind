@@ -47,7 +47,7 @@
                   <attribute id="Name" type="LSString" value="Chimera" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="FelineFall" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(424e8814-ee7e-4cef-9c51-fcd6e4cad96a)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="2a19ff33-6668-47b4-943b-6d713b16253f" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="ac3c816a-b37e-458a-8aef-207985e16c18" />  this one must be unique
