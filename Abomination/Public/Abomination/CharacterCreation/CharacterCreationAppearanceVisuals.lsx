@@ -308,9 +308,9 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h96e9d58fgbc1eg4f62gb768ge04fb84b80ac" version="1"/>
-                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                    <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
                     <attribute id="SlotName" type="FixedString" value="Horns"/>
-                    <attribute id="UUID" type="guid" value="927daf95-a6f4-4f72-9d59-f0bacdb4e1a1"/>
+                    <attribute id="UUID" type="guid" value="ab04e002-970c-4f9a-8084-ac664a1912d3"/>
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
