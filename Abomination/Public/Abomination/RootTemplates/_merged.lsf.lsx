@@ -99,7 +99,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="b0bda09a-70d7-4660-9a90-4d116dbcf11b" /> must be unique
-					<attribute id="Name" type="LSString" value="Abomination_Female_Locust_Player_Strong" />
+					<attribute id="Name" type="LSString" value="Abomination_Female_CyberDemon_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
@@ -125,7 +125,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="84b72725-7331-4392-9037-6b1d54303dc2" /> must be unique
-					<attribute id="Name" type="LSString" value="Abomination_Male_Locust_Player_Strong" />
+					<attribute id="Name" type="LSString" value="Abomination_Male_CyberDemon_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
@@ -134,7 +134,6 @@
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Half_Baron" />
-
 					<children>
 						<node id="Tags">
 							<children>
