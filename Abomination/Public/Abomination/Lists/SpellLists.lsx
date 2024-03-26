@@ -10,8 +10,8 @@
                     <attribute id="UUID" type="guid" value="4d519463-7eb5-4205-938d-7c2fad76c65a"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Chimera Breath"/> 
-                    <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_Fire_Cone"/> the spells within the selector
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
                     <attribute id="UUID" type="guid" value="424e8814-ee7e-4cef-9c51-fcd6e4cad96a"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
