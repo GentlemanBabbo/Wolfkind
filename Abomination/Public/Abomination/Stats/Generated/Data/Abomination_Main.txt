@@ -30,6 +30,12 @@ data "StepsType" "Hooves"
 
 <!--------------------- Abomination Passives --------------------->
 
+new entry "Passive_KeenSenses"
+type "PassiveData"
+data "DisplayName" "hf4f7b098g319fg4cb6g9c5cg43de7e581c53;2"
+data "Description" "hb463d477g4353g43a8g8b62gd9027afe28b1;2""
+data "Boosts" "Advantage(Skill,Perception)"
+
 new entry "Passive_AbominationHidden"
 type "PassiveData"
 data "Icon" "statIcons_HillGiantsMight"
