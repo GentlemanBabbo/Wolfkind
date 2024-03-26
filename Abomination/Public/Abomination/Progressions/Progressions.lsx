@@ -8,7 +8,7 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Abomination" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;Passive_AbominationHidden" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;Passive_AbominationHidden;Passive_KeenSenses" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(4d519463-7eb5-4205-938d-7c2fad76c65a);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2)" />see below for explanation
                   <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)-->
                   This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
