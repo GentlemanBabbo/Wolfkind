@@ -36,6 +36,23 @@
                 <attribute id="Name" type="FixedString" value="MGDamage"/>
                 <attribute id="UUID" type="guid" value="544ee2ec-ae59-4936-8991-44bf57095e86"/>
                 </node>
+		<node id="LevelMapSeries">
+                <attribute id="Level1" type="LSString" value="2d8"/>
+		<attribute id="Level2" type="LSString" value="2d8"/>
+		<attribute id="Level3" type="LSString" value="2d8"/>
+		<attribute id="Level4" type="LSString" value="2d8"/>
+		<attribute id="Level5" type="LSString" value="2d8"/>
+		<attribute id="Level6" type="LSString" value="3d8"/>
+		<attribute id="Level7" type="LSString" value="3d8"/>
+		<attribute id="Level8" type="LSString" value="3d8"/>
+                <attribute id="Level9" type="LSString" value="3d8"/>
+                <attribute id="Level10" type="LSString" value="3d8"/>
+                <attribute id="Level11" type="LSString" value="4d8"/>
+                <attribute id="Level12" type="LSString" value="4d8"/>
+                <attribute id="Name" type="FixedString" value="FreezingHowlDmg"/>
+                <attribute id="UUID" type="guid" value="09cbf3f5-928e-4cb2-86b5-b8fe7f1e4b71"/>
+                </node>
+
             </children>
         </node>
     </region>
