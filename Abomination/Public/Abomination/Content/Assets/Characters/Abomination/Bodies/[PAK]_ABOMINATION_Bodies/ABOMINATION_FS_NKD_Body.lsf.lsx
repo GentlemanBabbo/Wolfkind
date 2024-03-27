@@ -770,9 +770,9 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.8193633 1.287728 0.1837461" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.8193598 -0.00588852 -0.2585503" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="5e3d7e01-ea5e-c120-3b3f-b6015bdec925" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8789967 1.781299 0.1626401" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8789967 -0.00558549 -0.2184167" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="3a2117ae-6a3b-3afb-1249-8d894e45f6b6" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="8e6aaed5-6945-438f-a883-ea376a3d1dd5" />
@@ -781,10 +781,10 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="e7b96b01-af9c-835b-e6b5-f1a75f7b538b" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="3931ff7c-02b3-bfbf-8f77-a382c7573566" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/ABOMINATION_FS_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/ABOMINATION_FS_NKD_Body.Dummy_Root.0" />
