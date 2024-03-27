@@ -588,6 +588,13 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="623df39d-8e0e-16ab-0046-2590004b4a28" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_NKD_Tail.ABOMINATION_FS_NKD_Tail_A_Mesh.1" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
 					</children>
 				</node>
 			</children>
