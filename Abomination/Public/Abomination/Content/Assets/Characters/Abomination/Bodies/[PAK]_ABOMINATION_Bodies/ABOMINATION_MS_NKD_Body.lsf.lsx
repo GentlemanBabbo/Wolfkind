@@ -6330,7 +6330,7 @@
 					<attribute id="ID" type="FixedString" value="9a7f5a05-2972-47a5-a7b4-224981336d1d" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ABOMINATION_MS_NKD_COLORABLE_SKIN" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
 					<children>
 						<node id="Texture2DParameters">

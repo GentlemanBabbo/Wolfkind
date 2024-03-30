@@ -550,8 +550,8 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="ef17b969-92f5-a718-a0c4-f8eaae729fe8" />
-					<attribute id="BoundsMax" type="fvec3" value="0.1001436 1.289497 1.408033" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.1001436 0.452531 0.06367249" />
+					<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+					<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
@@ -581,7 +581,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="623df39d-8e0e-16ab-0046-2590004b4a28" />
+							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_NKD_Tail.ABOMINATION_FS_NKD_Tail_A_Mesh.1" />
 						</node>
 					</children>

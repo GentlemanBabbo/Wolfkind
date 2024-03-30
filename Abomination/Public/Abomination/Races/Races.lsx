@@ -14,6 +14,47 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dragonborn" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> Race UUID, keep this for adding hairs etc
                 <children>
+                    <!--Skin Colors-->
+                        <!--Ash 1-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="2900ecf5-1cbd-4010-8ecb-2e799677184d" />
+                        </node>
+                        <!--Ash 2-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="96a85bb7-eb50-4a31-92e9-9e43b732bc55" />
+                        </node>
+                        <!--Ash 3-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="13253fe9-9a8e-4c53-bb4a-3caf0900d865" />
+                        </node>
+                        <!--Ash 4-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="1c0e882a-f2e3-409c-ad11-c86c73a6ee8a" />
+                        </node>
+                        <!--Ash 5-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="2fb35277-872d-4582-909d-efd27ac84fca" />
+                        </node>
+                        <!--Ash 6-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="a8c9bacc-934e-4167-b4fc-d87cd58b1991" />
+                        </node>
+                        <!--Ash 7-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="51990152-f875-43e7-83a1-06b429de9a57" />
+                        </node>
+                        <!--Ash 8-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="b05d2e82-6086-4bec-a072-2ab50ed2b064" />
+                        </node>
+                        <!--Ash 8-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="aa5748e6-cf6f-4d9d-b5fa-d826da457f3c" />
+                        </node>
+                        <!--Ash 8-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="a965f73f-9fec-458f-a474-5b9494e0c5cd" />
+                        </node>
                         <node id="SkinColors">
                             <attribute id="Object" type="guid" value="13b21142-24a0-4f2e-b794-29c3b4908f75"/>
                         </node>
