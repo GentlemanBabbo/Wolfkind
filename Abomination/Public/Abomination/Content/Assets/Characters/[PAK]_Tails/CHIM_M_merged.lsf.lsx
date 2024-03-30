@@ -591,7 +591,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Tail.ABOMINATION_MS_NKD_Tail_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_MS_NKD_Tail.ABOMINATION_MS_NKD_Tail_A_Mesh.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
