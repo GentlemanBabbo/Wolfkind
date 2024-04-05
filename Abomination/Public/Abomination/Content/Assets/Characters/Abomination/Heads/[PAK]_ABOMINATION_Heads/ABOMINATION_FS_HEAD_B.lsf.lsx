@@ -2459,7 +2459,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.7_CHIM_FS_NKD_Head_A_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.7_CHIM_FS_NKD_Head_A_Eyeshadow_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
