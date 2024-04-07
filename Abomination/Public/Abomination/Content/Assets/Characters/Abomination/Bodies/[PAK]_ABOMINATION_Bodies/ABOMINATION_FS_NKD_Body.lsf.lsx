@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="MaterialBank">
@@ -642,18 +642,18 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
-							<attribute id="PairElement2" type="FixedString" value="1afe4415-c027-5be1-f470-2aebe81b12ba" />
-							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
-						</node>
-						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
-							<attribute id="PairElement2" type="FixedString" value="a8e8c444-71ec-7dc5-0f7b-6f6712f06d7e" />
+							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
+							<attribute id="PairElement2" type="FixedString" value="34e469eb-eb33-100f-4c4c-0f56aefb8888" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
-							<attribute id="PairElement2" type="FixedString" value="74568965-3c2d-7dbb-d60f-d9e76e3d313b" />
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="0b9a711d-74c5-e985-9455-603c614044ff" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
+							<attribute id="PairElement2" type="FixedString" value="fe49503d-4849-b60c-e974-66ecd7fc4302" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
@@ -674,11 +674,6 @@
 						<node id="AnimationSetOverrides">
 							<attribute id="PairElement1" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f" />
 							<attribute id="PairElement2" type="FixedString" value="77aabe44-7bdb-7272-d6ab-c05b9573195e" />
-							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
-						</node>
-						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="ff4d9497-023c-434a-bd14-82fc367e991c" />
-							<attribute id="PairElement2" type="FixedString" value="8e575d96-c0c8-a3f8-f39c-37d8478437d4" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
@@ -707,23 +702,33 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
-							<attribute id="PairElement2" type="FixedString" value="0b9a711d-74c5-e985-9455-603c614044ff" />
-							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
-						</node>
-						<node id="AnimationSetOverrides">
-							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
-							<attribute id="PairElement2" type="FixedString" value="34e469eb-eb33-100f-4c4c-0f56aefb8888" />
-							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
-						</node>
-						<node id="AnimationSetOverrides">
 							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
-							<attribute id="PairElement2" type="FixedString" value="c9833ef6-1047-78d4-fbf8-a41bb04ece03" />
+							<attribute id="PairElement2" type="FixedString" value="ffca705c-a324-4977-2589-011374d22363" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="ff4d9497-023c-434a-bd14-82fc367e991c" />
+							<attribute id="PairElement2" type="FixedString" value="8e575d96-c0c8-a3f8-f39c-37d8478437d4" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
+							<attribute id="PairElement2" type="FixedString" value="b8d54b89-ef19-01f1-8c03-9e0fd654adf1" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
+							<attribute id="PairElement2" type="FixedString" value="6b05dbcc-19ef-475f-62a2-d18c1e640aa7" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
 						</node>
 						<node id="AnimationSetOverrides">
 							<attribute id="PairElement1" type="guid" value="aafbe780-d237-416e-9d05-e03070c9dbee" />
-							<attribute id="PairElement2" type="FixedString" value="615801f0-555b-726c-5987-fe2de022a66c" />
+							<attribute id="PairElement2" type="FixedString" value="da21ae65-ddbb-1a6c-a112-bac2902b34bd" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="c5f1e8bd-1abc-4cce-929d-88b9f2561920" />
+							<attribute id="PairElement2" type="FixedString" value="8d645547-9eba-6dca-710c-becfe849e787" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationSetOverrides">
@@ -732,22 +737,13 @@
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="a1a5615a-1725-ecdd-e819-4cc6cfa10116" />
-						</node>
-						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="623d6f0a-50f4-deaa-5138-3405fadc0c64" />
 						</node>
 						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="12b58d8e-bc98-a2e8-bc46-ed597235fe77" />
+						</node>
+						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="da29fce1-056a-4f86-b110-d61679c21238" />
-						</node>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="c5444852-1895-0e73-37c5-d0a4eb1c0219" />
-						</node>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="3c5ac745-11bb-4489-a636-ef21e3e4f424" />
-						</node>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="bdeeccd1-bbb1-263c-c9b2-b414ce11b24c" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="9017a5eb-68fd-86a2-ad35-8c120c1c2738" />
@@ -770,8 +766,8 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.8789967 -0.00558549 -0.2184167" />
+					<attribute id="BoundsMax" type="fvec3" value="0.87771744 1.7627684 0.16308746" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8777169 -0.009218405 -0.2189182" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="3a2117ae-6a3b-3afb-1249-8d894e45f6b6" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
@@ -784,12 +780,15 @@
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="3931ff7c-02b3-bfbf-8f77-a382c7573566" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="aad0d538-f1ce-e669-7728-ec54575c0076" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/ABOMINATION_FS_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Abomination/[PAK]_ABOMINATION_Body/ABOMINATION_F_Body/ABOMINATION_FS_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
