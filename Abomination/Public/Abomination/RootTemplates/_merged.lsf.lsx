@@ -10,7 +10,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" /> base DGB reference
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="04e25d36-f682-4785-6965-1a916d300950" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="013feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
 					<attribute id="Race" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> define race as Custom Race
 					<children>
 						<node id="Tags">
