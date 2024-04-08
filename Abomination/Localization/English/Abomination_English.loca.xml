@@ -5,8 +5,6 @@
 	<content contentuid="h53b23b99g639bg4e97g8f74g437d29b6aa4c" version="1">Frost Wolf</content>
 	<content contentuid="h654b5559gac9fg4226ga833gc74c1824b02c" version="1">A frost wolf wolfkind's fur usually has a light gray or silvery tone to it.</content>
 	<content contentuid="hc2e5c1dbg1784g4fc9gb982g2441b2c494a4" version="1">Disgust</content>
-	<content contentuid="h912a2d17g842eg4bd3g9d02g456aa7f89751" version="1">Take Flight</content>
-	<content contentuid="h75b5e29fg4769g482fg9716gd56e106190c3" version="1">Throw yourself to the wind on wings of terror.</content>
 	<content contentuid="h49cda8e0g95afg4ae2ga99eg1f9c8bdb7874" version="1">Disdain</content>
 	<content contentuid="h0e0870a1g2ebag4465gaae7g80e7047ddb3a" version="1">Disorder</content>
 	<content contentuid="h447ec99bgdd64g423ag8793g33b4b37c4c50" version="1">Raid</content>
@@ -14,21 +12,10 @@
 	<content contentuid="hc621643cgfaa7g4a45ga874gb81ad9597bd3" version="1">Ripper</content>
 	<content contentuid="haa3d4e11ga110g4b6bgbed4g70509ec0eb59" version="1">They look so healthy. It would be a shame if they weren't. Deal increased damage to those who are at full HP.</content>
 	<content contentuid="hcf69a9e9gc99cg4c9bg86fdg8cc129c0e4c0" version="1">Freezing Howl</content>
-	<content contentuid="h9632fccfge94eg4ebbg8c71gc18c74cafe32" version="1"> As an action, you can unleash a magic-laced howl to debilitate those nearby. Every creature within a 15-foot radius from you must make a Constitution saving throw. Targets who fail this throw are shredded by the frosty pitch of your vocals.</content>
-	<content contentuid="h5051f2acg95aag4b44g982cg30c4042c0030" version="1">Cyber-Demon</content>
-	<content contentuid="h0d2755bcgf32bg4f57g9244g09a700f9ef8e" version="1">The unfortunate splicing of a mortal's spirit with a demon's flesh through the ingenuity of bio-mechanical designs. War and conflict drove these mutants to escape their realm to seek shelter among the Astral Plane. They crave independence, and search for meaning for the ways they have been wronged.</content>
+	<content contentuid="h9632fccfge94eg4ebbg8c71gc18c74cafe32" version="1"> Unleash a magic-laced howl to debilitate those nearby. Every creature within a 15-foot radius from you must make a Constitution saving throw; targets who fail this throw are shredded by the frosty pitch of your vocals.</content>
 	<content contentuid="h7b73a5bdgf4afg4866g9e1dgc260eb3c38b2" version="1">Berserker</content>
 	<content contentuid="h1b80a5bdgf55432866g9e1rgd150eb3c38a3" version="1">Wolf-Spirit</content>
 	<content contentuid="ha23fd3e3g3d92g4fdfg856cg71dd40cdc0d9" version="1">Ram</content>
-	<content contentuid="h808cd66cga63fg4fc3gb2bbg1142b3f07e8b" version="1">Phaser Beam</content>
-	<content contentuid="h3a8b3280gae29g4da0gb89bg794c572e3aeb" version="1">Unleash your cybernetic capacitors upon your foes, dealing [1] per projectile fired.</content>
-	<content contentuid="h53f68b5bga3fcg49b1gb324g1319c5db1a3d" version="1">Coolant System</content>
-	<content contentuid="he56efd98g0c67g4d45g9968g4025254ff8e8" version="1">Your demonic flesh and ventilation systems allow for heat discharge. You are resistant to fire damage.</content>
-	<content contentuid="hced7872eg5b8fg4deeg8fc6gcc32326a3529" version="1">End your foes with an eletrical discharge. Strike multiple targets with the blast.</content>
-	<content contentuid="hfa5ce2cag64a7g4714g8826g71ac39347691" version="1">Ironlung</content>
-	<content contentuid="h7f6650a3g3d98g438dgaed0gf8ddd3c9bdf8" version="1">Your anatomy does not permit poison contamination. You are resistant to Poison damage and cannot be poisoned.</content>
-	<content contentuid="h821956b1gab72g4ad7g8ffagba15da4e2d70" version="1">High-Voltage</content>
-	<content contentuid="h3ec95132g9beeg4eb9g80a5g3ee218aaeeac" version="1">The energies that sustain you grant you an increase to your lightning damage outputs.</content>	
 	<content contentuid="h44204017gdb69g40fega7c9gef3fc0b9563a" version="1">Dominant Claw</content>
 	<content contentuid="hddfa687fge181g4cb1ga9bdgdf953747be0f" version="1">Secondary Claw</content>
 	<content contentuid="h55779bb1g844eg48a1gaa92g3e73909046b4" version="1">Hellrot</content>
