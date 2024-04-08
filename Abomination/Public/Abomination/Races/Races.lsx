@@ -14,6 +14,9 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dragonborn" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7" /> Race UUID, keep this for adding hairs etc
                 <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="REALLY_BESTIAL_1029b3e3-3ff0-4d73-b4ed-79b622cad4f9"/>
+                        </node>
                     <!--Skin Colors-->
                         <!--Ash 1-->
                         <node id="SkinColors">
