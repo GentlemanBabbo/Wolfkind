@@ -2444,32 +2444,37 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f450948a-3fbf-4183-96fc-ec9c7b830488" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.1_CHIM_Head_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.1_CHIM_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="17c677a9-49a5-54d1-9502-4903b2e0a872" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.2_CHIM_FS_NKD_Head_A_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.2_CHIM_FS_NKD_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.3_CHIM_FS_NKD_Head_A_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.3_CHIM_FS_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.7_CHIM_FS_NKD_Head_A_Eyeshadow_Mesh.3" />
+							<attribute id="LOD" type="uint8" value="0" /> Fur
+							<attribute id="MaterialID" type="FixedString" value="3a99fb02-9f5d-4b04-9072-7de8670f2411" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.WRWOLF_Head_Fur_A_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8089f3a7-638b-1768-b6a4-43e1b0892e23" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.5_CHIM_FS_NKD_Head_A_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.5_CHIM_FS_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_B.6_CHIM_FS_NKD_Head_A_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.6_CHIM_FS_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.7_CHIM_FS_NKD_Head_A_Eyeshadow_Mesh.6" />
 						</node>
 					</children>
 				</node>
