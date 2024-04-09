@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="MaterialBank">
@@ -617,7 +617,7 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-				<!-- ABOM F Base -->
+			<!-- ABOM F Base -->
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -766,7 +766,7 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.87771744 1.7627684 0.16308746" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8777174 1.762768 0.1630875" />
 					<attribute id="BoundsMin" type="fvec3" value="-0.8777169 -0.009218405 -0.2189182" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="3a2117ae-6a3b-3afb-1249-8d894e45f6b6" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
