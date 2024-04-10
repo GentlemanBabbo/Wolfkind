@@ -54,7 +54,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_Wolfkind" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -81,7 +81,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Wolfkind" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 
 					<children>
@@ -109,7 +109,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9fff95bf-7ad9-4ea9-9898-3da80625a646" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_Wolfkind" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -136,7 +136,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="83a813d4-1b41-41f0-ba0f-a35c449f8538" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Wolfkind" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 
 					<children>
@@ -164,7 +164,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="c7bd24e9-3586-4998-8e53-8f4f01e4b8de" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_MountainWolf" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -191,7 +191,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a76bf103-6b17-4c8b-9bd5-4118a4ee9069" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_MountainWolf" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 
 					<children>
