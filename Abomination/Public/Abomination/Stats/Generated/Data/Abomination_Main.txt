@@ -102,7 +102,7 @@ data "StackId" "BOOST_RIPANDTEAR"
 data "TickType" "StartTurn"
 data "Boosts" "UnlockSpell(Target_Tear)"
 
-<!----Wolf Spell--->
+<!----Frost Wolf Spell--->
 
 new entry "Shout_Freezing_Howl"
 type "SpellData"
@@ -136,3 +136,40 @@ data "HitEffect" "20891751-3bd8-40f4-93f4-fc0650fe0183"
 data "PositionEffect" "19a834a8-a378-4d0f-90e0-b8b9de1dc36c"
 data "TargetEffect" "63def50f-b1fa-4394-81f6-539880d4e8a9"
 data "DamageType" "Cold"
+
+new entry "Claws_Frost"
+type "PassiveData"
+data "DisplayName" "h3d77d003g438cg4647gb13dgba200861e89c;1"
+data "Description" "hed6d1c4dg77fbg49f8g997dg12138cf11baa;1"
+data "DescriptionParams" "DealDamage(1d6,Cold); 50"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" ""SpellId('Target_Rip') or "SpellId('Target_Tear') and Character()"
+data "StatsFunctors" "DealDamage(1d6,Cold)"
+
+<!----Forest Wolf Spell--->
+
+new entry "Claws_Poison"
+type "PassiveData"
+data "DisplayName" "ha2dc3678g646eg440bg80c4g711dc50bd427;1"
+data "Description" "h5478804bg4f37g4e87gaa41g188623f434af;1"
+data "DescriptionParams" "DealDamage(1d6,Poison); 50"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" ""SpellId('Target_Rip') or "SpellId('Target_Tear') and Character()"
+data "StatsFunctors" "DealDamage(1d6,Poison)"
+
+<!----Mountain Wolf Spell--->
+
+new entry "Claws_Thunder"
+type "PassiveData"
+data "DisplayName" "h2444f726gf136g4a3bga089g32f210b9706c;1"
+data "Description" "hfe19c37bg4aefg4e49ga6c0g35515fe881f4;1"
+data "DescriptionParams" "DealDamage(1d6,Thunder); 50"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" ""SpellId('Target_Rip') or "SpellId('Target_Tear') and Character()"
+data "StatsFunctors" "DealDamage(1d6,Thunder)"
