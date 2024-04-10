@@ -40,8 +40,8 @@ data "Boosts" "Advantage(Skill,Perception)"
 new entry "Passive_AbominationHidden"
 type "PassiveData"
 data "Icon" "statIcons_HillGiantsMight"
-data "DisplayName" "hdc1766e2g45a5g49bcga862g46cb3f067477"
-data "Description" "h5354a700g2ee6g456cgbb8fg8066092e2228"
+data "DisplayName" ""
+data "Description" ""
 data "Boosts" "ActionResource(Movement,9,0);CarryCapacityMultiplier(1.5)"
 
 
