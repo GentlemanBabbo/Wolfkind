@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hb2affd45geefbg4952g924egaea2c1152059" version="1">Wolfkind</content>
+	<content contentuid="hf45bb740g25d2g49acgb45cg14d27ca356ec" version="1">Spiritual and wise, wolfkind are wolf-like humanoids with wolfen ancestors. The importance of clan and kin is paramount to wolfkind society; honor your family, and venture forth in their name.</content>
+	<content contentuid="h53b23b99g639bg4e97g8f74g437d29b6aa4c" version="1">Frost Wolf</content>
+	<content contentuid="h654b5559gac9fg4226ga833gc74c1824b02c" version="1">This frigid wolfkind lives among the coldest regions, harnessing the frost in the air within their magical howl.</content>
+	<content contentuid="h7f5981beg5ca3g4e22g9783g6971af922bd0" version="1">Forest Wolf</content>
+	<content contentuid="hd576d36eg3b7dg4460g903fg8f9e85af62df" version="1">A dextrous hunter, these wolfkind prowl the forests in search of prey. They yearn for the ultimate hunt, and hone their skills to honor their clan.</content>
+	<content contentuid="h495de881gf662g4219g87c1g2e756d2d1afe" version="1">Mountain Wolf</content>
+	<content contentuid="h9f1d29f9g0d63g455agb030ge65ba4d857f7" version="1">With pride only matched by its bulky physique, these wolfkind thunder across the land, seeking to tame the wild landscape for the glory of their pack.</content>
+	<content contentuid="hc2e5c1dbg1784g4fc9gb982g2441b2c494a4" version="1">Disgust</content>
+	<content contentuid="h49cda8e0g95afg4ae2ga99eg1f9c8bdb7874" version="1">Disdain</content>
+	<content contentuid="h22352ea1g44f0g434egae57g65578f55db1e" version="1">Matriarch</content>	
+	<content contentuid="hd74ef3f0g6991g4d41g8f3cgab441d05d5ce" version="1">Jaw Jabber</content>	
+	<content contentuid="h0e0870a1g2ebag4465gaae7g80e7047ddb3a" version="1">Disorder</content>
+	<content contentuid="h447ec99bgdd64g423ag8793g33b4b37c4c50" version="1">Raid</content>
+	<content contentuid="hd109591agd5e8g4ccdgad14g5ec600c38213" version="1">Shogun</content>
+	<content contentuid="hc621643cgfaa7g4a45ga874gb81ad9597bd3" version="1">Ripper</content>
+	<content contentuid="haa3d4e11ga110g4b6bgbed4g70509ec0eb59" version="1">They look so healthy. It would be a shame if they weren't. Deal increased damage to those who are at full HP.</content>
+	<content contentuid="hcf69a9e9gc99cg4c9bg86fdg8cc129c0e4c0" version="1">Freezing Howl</content>
+	<content contentuid="h9632fccfge94eg4ebbg8c71gc18c74cafe32" version="1">Unleash a magic-laced howl to debilitate those nearby. Every creature within a 15-foot radius from you must make a Constitution saving throw; targets who fail this throw are shredded by the frosty pitch of your vocals.</content>
+	<content contentuid="h7b73a5bdgf4afg4866g9e1dgc260eb3c38b2" version="1">Berserker</content>
+	<content contentuid="h1b80a5bdgf55432866g9e1rgd150eb3c38a3" version="1">Wolf-Spirit</content>
+	<content contentuid="ha23fd3e3g3d92g4fdfg856cg71dd40cdc0d9" version="1">Ram</content>
+	<content contentuid="h44204017gdb69g40fega7c9gef3fc0b9563a" version="1">Dominant Claw</content>
+	<content contentuid="hddfa687fge181g4cb1ga9bdgdf953747be0f" version="1">Secondary Claw</content>
+	<content contentuid="h55779bb1g844eg48a1gaa92g3e73909046b4" version="1">Hellrot</content>
+	<content contentuid="hf4f7b098g319fg4cb6g9c5cg43de7e581c53" version="1">Keen Senses</content>
+	<content contentuid="hb463d477g4353g43a8g8b62gd9027afe28b1" version="1">Your attunement to the world shapes your perspective. You have Advantage on Perception checks.</content>
+	<content contentuid="h57f5bfc9g723bg4f0dg8d0cg31a96e0417c8" version="1">Slice and Dice</content>
+	<content contentuid="h471f5798ga17ag47d2gb1bbg06332236d8ec" version="1">Striking with your claws opens up an opportunity for a follow-up strike.</content>
+	<content contentuid="hd9c5f0c1gcf02g4c3fg9a63g0017a67a7c50" version="1">No Tail</content>
+	<content contentuid="he9733e56g9db5g4f05ga8adg7880b5159efd" version="1">Long Tail</content>
+	<content contentuid="h3d77d003g438cg4647gb13dgba200861e89c" version="1">Frigid Claws</content>
+	<content contentuid="hed6d1c4dg77fbg49f8g997dg12138cf11baa" version="1">Your claw attacks are now tinged with frost; inflict an additional 1d6 cold damage with Rip and Tear.</content>
+	<content contentuid="ha2dc3678g646eg440bg80c4g711dc50bd427" version="1">Poison Claws</content>
+	<content contentuid="h5478804bg4f37g4e87gaa41g188623f434af" version="1">Your claw attacks are now tinged with poison; inflict an additional 1d6 poison damage with Rip and Tear.</content>
+	<content contentuid="h2444f726gf136g4a3bga089g32f210b9706c" version="1">Rumbling Claws</content>
+	<content contentuid="hfe19c37bg4aefg4e49ga6c0g35515fe881f4" version="1">Your claw attacks are now rippling with thunderous fury; inflict an additional 1d6 thunder damage with Rip and Tear.</content>
+	<content contentuid="h41c749a3g01bag4489ga7d1gd7d135779c27" version="1">Booming Howl</content>
+	<content contentuid="h1e87ea5fg998eg4c56g8b4eg61503ab9d01f" version="1">Unleash a magic-laced howl to debilitate those nearby. Every creature within a 15-foot radius from you must make a Constitution saving throw; targets who fail this throw are blown away by the concussive force of your bellow.</content>
+	<content contentuid="h2ae696cdg1e1bg45ebg9c91g2cd0e05b92aa" version="1">Peak Predator</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+</contentList>

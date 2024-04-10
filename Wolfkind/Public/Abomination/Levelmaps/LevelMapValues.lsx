@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                <attribute id="Level1" type="LSString" value="1d8"/>
+		<attribute id="Level2" type="LSString" value="1d8"/>
+		<attribute id="Level3" type="LSString" value="1d8"/>
+		<attribute id="Level4" type="LSString" value="1d8"/>
+		<attribute id="Level5" type="LSString" value="1d10"/>
+		<attribute id="Level6" type="LSString" value="1d10"/>
+		<attribute id="Level7" type="LSString" value="1d10"/>
+		<attribute id="Level8" type="LSString" value="1d10"/>
+                <attribute id="Level9" type="LSString" value="1d12"/>
+                <attribute id="Level10" type="LSString" value="1d12"/>
+        	<attribute id="Level11" type="LSString" value="1d12"/>
+                <attribute id="Level12" type="LSString" value="1d12"/>
+                <attribute id="Name" type="FixedString" value="RIPTEAR"/>
+                <attribute id="UUID" type="guid" value="ef1d274d-8dcb-413a-a7f8-08933ebf6892"/>
+                </node>
+		<node id="LevelMapSeries">
+                <attribute id="Level1" type="LSString" value="1d4"/>
+		<attribute id="Level2" type="LSString" value="1d4"/>
+		<attribute id="Level3" type="LSString" value="1d4"/>
+		<attribute id="Level4" type="LSString" value="1d4"/>
+		<attribute id="Level5" type="LSString" value="1d6"/>
+		<attribute id="Level6" type="LSString" value="1d6"/>
+		<attribute id="Level7" type="LSString" value="1d6"/>
+		<attribute id="Level8" type="LSString" value="1d6"/>
+                <attribute id="Level9" type="LSString" value="1d8"/>
+                <attribute id="Level10" type="LSString" value="1d8"/>
+                <attribute id="Level11" type="LSString" value="1d8"/>
+                <attribute id="Level12" type="LSString" value="1d8"/>
+                <attribute id="Name" type="FixedString" value="MGDamage"/>
+                <attribute id="UUID" type="guid" value="544ee2ec-ae59-4936-8991-44bf57095e86"/>
+                </node>
+		<node id="LevelMapSeries">
+                <attribute id="Level1" type="LSString" value="2d8"/>
+		<attribute id="Level2" type="LSString" value="2d8"/>
+		<attribute id="Level3" type="LSString" value="2d8"/>
+		<attribute id="Level4" type="LSString" value="2d8"/>
+		<attribute id="Level5" type="LSString" value="2d8"/>
+		<attribute id="Level6" type="LSString" value="3d8"/>
+		<attribute id="Level7" type="LSString" value="3d8"/>
+		<attribute id="Level8" type="LSString" value="3d8"/>
+                <attribute id="Level9" type="LSString" value="3d8"/>
+                <attribute id="Level10" type="LSString" value="3d8"/>
+                <attribute id="Level11" type="LSString" value="4d8"/>
+                <attribute id="Level12" type="LSString" value="4d8"/>
+                <attribute id="Name" type="FixedString" value="FreezingHowlDmg"/>
+                <attribute id="UUID" type="guid" value="09cbf3f5-928e-4cb2-86b5-b8fe7f1e4b71"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>

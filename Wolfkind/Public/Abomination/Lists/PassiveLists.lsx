@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList"> Wolfkind
+                    <attribute id="Passives" type="LSString" value="ImmutableForm,FelineFall,SuperiorDarkvision,Passive_Ripper,Passive_KeenSenses"/> the passive list
+                    <attribute id="UUID" type="guid" value="196a724a-addb-43ee-8c8e-ecff81d23400"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList"> Frost Wolf
+                    <attribute id="Passives" type="LSString" value="Claws_Frost"/> the passive list
+                    <attribute id="UUID" type="guid" value="8377af4f-665e-408b-985a-090504da6720"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList"> Forest Wolf
+                    <attribute id="Passives" type="LSString" value="VengefulRetort"/> the passive list
+                    <attribute id="UUID" type="guid" value="64792785-9129-4d7a-9897-876209b95383"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList"> Forest Wolf
+                    <attribute id="Passives" type="LSString" value="Claws_Poison"/> the passive list
+                    <attribute id="UUID" type="guid" value="0d3851b6-1dce-4358-94c7-0f2b2532661a"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList"> Mountain Wolf
+                    <attribute id="Passives" type="LSString" value="Claws_Thunder"/> the passive list
+                    <attribute id="UUID" type="guid" value="1b6c624f-5906-4a7d-ba0f-4b7ac35e2b80"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

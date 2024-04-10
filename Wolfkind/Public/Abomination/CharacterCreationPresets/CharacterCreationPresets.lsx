@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+	<node id="CharacterCreationPreset"> F Frost Wolf
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="b1a83755-5bb6-41c8-9e37-babe3619b2ee"/>
+	  <attribute id="SubRaceUUID" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef"/>
+          <attribute id="UUID" type="guid" value="8db74418-d4d7-4bfa-9e0c-97828cc0409a"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+	<node id="CharacterCreationPreset"> M Frost Wolf
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="547b836b-73b3-4302-8c18-1716f4d747c3"/>
+	  <attribute id="SubRaceUUID" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef"/>
+          <attribute id="UUID" type="guid" value="d9a39e7b-8dd4-47f8-b28a-19cec0e0d2d7"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+	<node id="CharacterCreationPreset"> F Forest Wolf
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="897a7352-34c0-4900-8053-641ef5d98d88"/>
+	  <attribute id="SubRaceUUID" type="guid" value="f972e68f-7888-4f5e-a61a-11f74d53a9c7"/>
+          <attribute id="UUID" type="guid" value="0cdbac80-bf89-4bc7-bdc6-d3062efa259e"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+	<node id="CharacterCreationPreset"> M Forest Wolf
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="c11cb23f-5cc1-485c-8c1c-e244556bb2d0"/>
+	  <attribute id="SubRaceUUID" type="guid" value="f972e68f-7888-4f5e-a61a-11f74d53a9c7"/>
+          <attribute id="UUID" type="guid" value="09c3c934-5aff-4f44-b686-869f599084d0"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+	<node id="CharacterCreationPreset"> F Mountain Wolf
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="78d6805e-3883-4835-8e03-57325fdf0dc2"/>
+	  <attribute id="SubRaceUUID" type="guid" value="a2eac0a4-3da1-4dec-849b-5a9b56e89ce1"/>
+          <attribute id="UUID" type="guid" value="191bd2e4-4758-4dcf-8b96-245024ae11f6"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+	<node id="CharacterCreationPreset"> M Mountain Wolf
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+          <attribute id="RootTemplate" type="guid" value="f8ba1ecb-fe76-4342-949e-6d680f494644"/>
+	  <attribute id="SubRaceUUID" type="guid" value="a2eac0a4-3da1-4dec-849b-5a9b56e89ce1"/>
+          <attribute id="UUID" type="guid" value="11085d8e-9a9f-4efa-8873-296c1d4b4176"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
