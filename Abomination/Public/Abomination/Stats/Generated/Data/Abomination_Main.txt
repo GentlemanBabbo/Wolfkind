@@ -194,7 +194,7 @@ data "CastEffect" "ebdfde5e-d426-4847-b5d4-dd4b0bb5a42b"
 data "HitEffect" "20891751-3bd8-40f4-93f4-fc0650fe0183"
 data "PositionEffect" "19a834a8-a378-4d0f-90e0-b8b9de1dc36c"
 data "TargetEffect" "63def50f-b1fa-4394-81f6-539880d4e8a9"
-data "DamageType" "Cold"
+data "DamageType" "Thunder"
 
 new entry "Claws_Thunder"
 type "PassiveData"
