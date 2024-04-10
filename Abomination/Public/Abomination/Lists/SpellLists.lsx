@@ -14,6 +14,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Freezing_Howl"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="424e8814-ee7e-4cef-9c51-fcd6e4cad96a"/> the UUID, needs to be unique
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Mountain Wolf Shout"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Booming_Howl"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="e3fbf3e8-5e5e-4cd2-ac5c-1e418c7dcfd8"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
