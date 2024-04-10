@@ -54,7 +54,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_Wolfkind" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -81,7 +81,117 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Wolfkind" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="897a7352-34c0-4900-8053-641ef5d98d88" /> must be unique
+					<attribute id="Name" type="LSString" value="Abomination_Female_ForestWolf_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9fff95bf-7ad9-4ea9-9898-3da80625a646" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
+					<attribute id="Stats" type="FixedString" value="Playable_F_Wolfkind" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c11cb23f-5cc1-485c-8c1c-e244556bb2d0" /> must be unique
+					<attribute id="Name" type="LSString" value="Abomination_Male_ForestWolf_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="83a813d4-1b41-41f0-ba0f-a35c449f8538" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
+					<attribute id="Stats" type="FixedString" value="Playable_M_Wolfkind" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="78d6805e-3883-4835-8e03-57325fdf0dc2" /> must be unique
+					<attribute id="Name" type="LSString" value="Abomination_Female_MountainWolf_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c7bd24e9-3586-4998-8e53-8f4f01e4b8de" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
+					<attribute id="Stats" type="FixedString" value="Playable_F_MountainWolf" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f8ba1ecb-fe76-4342-949e-6d680f494644" /> must be unique
+					<attribute id="Name" type="LSString" value="Abomination_Male_MountainWolf_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a76bf103-6b17-4c8b-9bd5-4118a4ee9069" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
+					<attribute id="Stats" type="FixedString" value="Playable_M_MountainWolf" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 
 					<children>
