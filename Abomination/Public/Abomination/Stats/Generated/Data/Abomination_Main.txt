@@ -1,20 +1,34 @@
-<!--------------------- Abomination Character Entries --------------------->
+<!--------------------- Wolfkind Character Entries --------------------->
 
-new entry "Playable_M_Abomination"
+new entry "Playable_M_Wolfkind"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.00)"
+data "Weight" "135"
+data "StepsType" "Bare"
+
+new entry "Playable_F_Wolfkind"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.00)"
+data "Weight" "135"
+data "StepsType" "Bare"
+
+new entry "Playable_M_MountainWolf"
 type "Character"
 using "_Hero"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
 data "Weight" "135"
 data "StepsType" "Bare"
 
-new entry "Playable_F_Abomination"
+new entry "Playable_F_MountainWolf"
 type "Character"
 using "_Hero"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
 data "Weight" "135"
 data "StepsType" "Bare"
 
-<!--------------------- Abomination Passives --------------------->
+<!--------------------- Wolfkind Passives --------------------->
 
 new entry "Passive_KeenSenses"
 type "PassiveData"
@@ -31,7 +45,7 @@ data "Description" "h5354a700g2ee6g456cgbb8fg8066092e2228"
 data "Boosts" "ActionResource(Movement,9,0);CarryCapacityMultiplier(1.5)"
 
 
-<!--------------------- Abomination Spells --------------------->
+<!--------------------- Wolfkind Spells --------------------->
 
 new entry "Target_Rip"
 type "SpellData"
