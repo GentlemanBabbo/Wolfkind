@@ -150,6 +150,19 @@ data "StatsFunctors" "DealDamage(1d6,Cold)"
 
 <!----Forest Wolf Spell--->
 
+new entry "VengefulRetort"
+type "PassiveData"
+data "DisplayName" "h1c046e70g3edcg4ba8g9a99gbafa2c7a41b5;3"
+data "Description" "h81d70f61g785eg4fb6gb7edg4cb2e53f8098;3"
+data "DescriptionParams" "1d6+DexterityModifier"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "PassiveFeature_Parry"
+data "EnabledConditions" "HasActionResource('ReactionActionPoint', 1, 0, false, false, context.Source)"
+data "EnabledContext" "OnStatusRemove;OnStatusRemoved;OnTurn"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "ToggleOnFunctors" "ApplyStatus(PARRY_PASSIVE_TECHNICAL,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(PARRY_PASSIVE_TECHNICAL,100,-1)"
+
 new entry "Claws_Poison"
 type "PassiveData"
 data "DisplayName" "ha2dc3678g646eg440bg80c4g711dc50bd427;1"
