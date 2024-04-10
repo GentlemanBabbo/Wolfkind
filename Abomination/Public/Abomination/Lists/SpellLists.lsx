@@ -7,7 +7,7 @@
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Claws"/> 
                     <attribute id="Spells" type="LSString" value="Target_Rip"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="4d519463-7eb5-4205-938d-7c2fad76c65a"/> the UUID, needs to be unique
+                    <attribute id="UUID" type="guid" value="adefe729-f42d-4d08-a8f0-800663e0583a"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Frost Wolf Shout"/> 
