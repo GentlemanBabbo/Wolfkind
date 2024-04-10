@@ -106,7 +106,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9fff95bf-7ad9-4ea9-9898-3da80625a646" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
@@ -133,7 +133,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="83a813d4-1b41-41f0-ba0f-a35c449f8538" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
@@ -161,7 +161,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="5d5ad516-84f1-47a9-897c-6dcb7e65b605" /> inherits from normal CustomRace body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="27fce25c-22fd-4b4b-aa2d-db9f449755e8" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c7bd24e9-3586-4998-8e53-8f4f01e4b8de" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_F_Abomination" />
@@ -188,7 +188,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="b02f331d-b065-4ab1-9e79-052e0c71557f" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6d28b69-cf24-410b-b745-0c28c3f41f92" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a76bf103-6b17-4c8b-9bd5-4118a4ee9069" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="fd56fc1f-c5ea-4256-a73c-e8ff3a2af0ef" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_M_Abomination" />
