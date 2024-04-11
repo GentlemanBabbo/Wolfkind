@@ -4,7 +4,7 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM MAIN RACE|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hf45bb740g25d2g49acgb45cg14d27ca356ec" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="hb2affd45geefbg4952g924egaea2c1152059" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Abomination" />
