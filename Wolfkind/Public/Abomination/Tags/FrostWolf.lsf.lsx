@@ -4,7 +4,7 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM SUBRACE|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hadac7b69g050ag4792gb8dbgdf70f1d297e4" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h654b5559gac9fg4226ga833gc74c1824b02c" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h53b23b99g639bg4e97g8f74g437d29b6aa4c" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Chimera" />
