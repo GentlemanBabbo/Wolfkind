@@ -2412,7 +2412,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="15eda0a6-3707-41fd-9738-9c840f2fdde4e" />
+					<attribute id="ID" type="FixedString" value="15eda0a6-3707-41fd-9738-9c840f2fdde4" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="ABOMINATION_MS_Head_B" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />

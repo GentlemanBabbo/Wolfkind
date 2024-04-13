@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="|CUSTOM SUBRACE|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hadac7b69g050ag4792gb8dbgdf70f1d297e4" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h53b23b99g639bg4e97g8f74g437d29b6aa4c" version="1" />
+			<attribute id="Description" type="LSString" value="|CUSTOM SUB RACE|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h9f1d29f9g0d63g455agb030ge65ba4d857f7" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h495de881gf662g4219g87c1g2e756d2d1afe" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Chimera" />
-			<attribute id="UUID" type="guid" value="fffaaca0-317f-4b60-8d14-454d8dd0cb8c" />
+			<attribute id="Name" type="FixedString" value="MountainWolf" />
+			<attribute id="UUID" type="guid" value="3c31eeee-de66-4cde-aa6e-e71dfa611fa2" />
 			<children>
 				<node id="Categories">
 					<children>
