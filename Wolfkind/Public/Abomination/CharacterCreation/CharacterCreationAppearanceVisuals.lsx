@@ -87,7 +87,19 @@
 					<attribute id="VisualResource" type="guid" value="ab0567c5-39e4-46cd-84b5-b5e8cc3ce897"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-
+				<node id="CharacterCreationAppearanceVisual"> Chimera1F - C
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="20e5c12f-3e5e-4aeb-825e-0ac2226e324e"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="a9c89741-ca79-4747-b3b6-27eff11dcd8f"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 
 		<!--Chimera Fur-->
 
