@@ -5,15 +5,14 @@
         <node id="root">
             <children>
 		<!--Male Chimera Heads-->
-			<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
+
 				<node id="CharacterCreationAppearanceVisual"> Chimera1M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
                     <attribute id="DisplayName" type="TranslatedString" handle="hc2e5c1dbg1784g4fc9gb982g2441b2c494a4" version="1"/> 
-					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_1dcf50ab-a802-49d1-8d4f-19df1070ad1d"/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="a3f619cd-c77b-4afd-ab86-1f15c2899df8"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="1dcf50ab-a802-49d1-8d4f-19df1070ad1d"/>
@@ -24,9 +23,8 @@
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
                     <attribute id="DisplayName" type="TranslatedString" handle="h2ae696cdg1e1bg45ebg9c91g2cd0e05b92aa" version="1"/> 
-					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_15eda0a6-3707-41fd-9738-9c840f2fdde4"/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="26714f12-218f-4f6b-b270-29739498e051"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="15eda0a6-3707-41fd-9738-9c840f2fdde4"/>
@@ -37,27 +35,13 @@
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
                     <attribute id="DisplayName" type="TranslatedString" handle="h49cda8e0g95afg4ae2ga99eg1f9c8bdb7874" version="1"/> 
-					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_6b1034a1-fac1-4075-83f1-0c682c32087e"/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="36c3a051-ec82-4ad2-b911-56b29f4e5182"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="6b1034a1-fac1-4075-83f1-0c682c32087e"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-			<!-- RaceUUID so you can quickly replace the above with your desired race
-				Halfling: 78cd3bcc-1c43-4a2a-aa80-c34322c16a04
-				Gnome: f1b3f884-4029-4f0f-b158-1f9fe0ae5a0d
-				Deep Gnome: 3560f4a2-c0b8-4f8b-baf8-6b6eaef0c160
-				Tiefling: b6dccbed-30f3-424b-a181-c4540cf38197
-				Githyanki: bdf9b779-002c-4077-b377-8ea7c1faa795
-				Human: 0eb594cb-8820-4be6-a58d-8be7a1a98fba
-				Elf: 6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a
-				Drow: 4f5d1434-5175-4fa9-b7dc-ab24fba37929
-				HalfElf/Drow: 45f4ac10-3c89-4fb2-b37d-f973bb9110c0
-				Dwarf: 0ab2874d-cfdc-405e-8a97-d37bfbb23c52
-				Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 
-				Half-Orc: 5c39a726-71c8-4748-ba8d-f768b3c11a91-->
 
 		<!--Female Chimera Heads-->
 
@@ -65,10 +49,9 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="h22352ea1g44f0g434egae57g65578f55db1e" version="1"/> 
-					same as the handle in your Localization\English\custom_name_here.xml
+                   	<attribute id="DisplayName" type="TranslatedString" handle="h22352ea1g44f0g434egae57g65578f55db1e" version="1"/>
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_3fe696e3-400b-4c4f-a78c-53c8068bd97e"/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="f0e7479f-4693-4104-b79f-5e36fb89a8cf"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="3fe696e3-400b-4c4f-a78c-53c8068bd97e"/>
@@ -78,10 +61,9 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="hd74ef3f0g6991g4d41g8f3cgab441d05d5ce" version="1"/> 
-					same as the handle in your Localization\English\custom_name_here.xml
+                   	<attribute id="DisplayName" type="TranslatedString" handle="hd74ef3f0g6991g4d41g8f3cgab441d05d5ce" version="1"/>
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_ab0567c5-39e4-46cd-84b5-b5e8cc3ce897"/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="4cfb0d48-6e34-4475-a6d9-828edba5b8cb"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="ab0567c5-39e4-46cd-84b5-b5e8cc3ce897"/>
@@ -91,28 +73,14 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
-					same as the handle in your Localization\English\custom_name_here.xml
+                   	<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_a9c89741-ca79-4747-b3b6-27eff11dcd8f"/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="20e5c12f-3e5e-4aeb-825e-0ac2226e324e"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="a9c89741-ca79-4747-b3b6-27eff11dcd8f"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-
-		<!--Chimera Fur-->
-
-				<node id="CharacterCreationAppearanceVisual"> Fur A - Chimera
-					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
-					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1b80a5bdgf55432866g9e1rgd150eb3c38a3" version="1" />
-					<attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
-					<attribute id="SlotName" type="FixedString" value="DragobornTop" /> <!-- This defines that this asset is a hair -->
-					<attribute id="UUID" type="guid" value="2f2cc905-884c-49f1-8bbe-4a96485e0ecf" /> <!-- must be unique -->
-					<attribute id="VisualResource" type="guid" value="57e7bf11-9d37-49a1-ada2-fea81246d40d" />
-					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
-        		</node>
 		
         <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> MS
@@ -168,7 +136,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hd9c5f0c1gcf02g4c3fg9a63g0017a67a7c50" version="1"/>  <!-- male Strong -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd9c5f0c1gcf02g4c3fg9a63g0017a67a7c50" version="1"/>  <!-- Male Strong -->
                     <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
                     <attribute id="SlotName" type="FixedString" value="Tail"/>
                     <attribute id="UUID" type="guid" value="c487252c-2adc-4603-a484-85cf84b93f7d"/>
@@ -177,7 +145,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="he9733e56g9db5g4f05ga8adg7880b5159efd" version="1"/>  <!-- male Strong -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="he9733e56g9db5g4f05ga8adg7880b5159efd" version="1"/>  <!-- Male Strong -->
                     <attribute id="RaceUUID" type="guid" value="7cc31992-8c46-4bf7-bade-5bf54e42b7f7"/>
                     <attribute id="SlotName" type="FixedString" value="Tail"/>
                     <attribute id="UUID" type="guid" value="7922ce98-d9ae-4b79-a2da-d9e42ce04e98"/>
