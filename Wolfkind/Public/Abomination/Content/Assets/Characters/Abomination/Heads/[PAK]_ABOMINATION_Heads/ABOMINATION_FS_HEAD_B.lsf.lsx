@@ -2448,7 +2448,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="17c677a9-49a5-54d1-9502-4903b2e0a872" />
+							<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
 							<attribute id="ObjectID" type="FixedString" value="ABOMINATION_FS_Head_A.2_CHIM_FS_NKD_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
